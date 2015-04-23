@@ -1,0 +1,424 @@
+-- Luke fon Fabre -- 
+Hijo del duque
+Efecto: Recupera un 2% de HP cada 15 segundos cuando se está quieto en el mapa.
+¿Dónde?: Título del principio
+
+Asustadizo 
+Efecto: Puede curar el envenenamiento cuando se está quieto en el mapa durante 15 segundos
+¿Dónde?: En la historia principal
+
+Embajador 
+Efecto: Puede curar la parálisis cuando se está quieto en el mapa durante 15 segundos
+¿Dónde?: En la historia principal 
+
+Réplica 
+Efecto: Recupera un 2% de TP cada 15 segundos cuando se está quieto en el mapa
+¿Dónde?: En la historia principal 
+
+Señor de los anillos 
+Efecto: Cura las artes selladas cuando se está quieto en el mapa durante 15 segundos
+¿Dónde?: En la historia principal 
+
+Hijo perdido 
+Efecto: Cura la petrificación cuando se está quieto en el mapa durante 15 segundos
+¿Dónde?: En la historia principal 
+
+Espadachín de Lorelei 
+Efecto: Recupera un 2% de TP cada 15 segundos cuando se anda por el mapa 
+¿Dónde?: En la historia principal 
+
+Destructor de barriles 
+Efecto: Recupera un 2% de HP cada 15 segundos cuando se anda por el mapa 
+¿Dónde?: Destruye 18 barriles o más en el minijuego que hay en Sheridan.
+
+Inversor
+Efecto: Aumenta el límite cada 15 segundos cuando se está quieto en el mapa
+¿Dónde?: Sidequest – Construcción del puente 
+
+Noble granuja
+Efecto: Puede curar los estados alterados cuando se está quieto en el mapa y aumenta el límite si se curan 
+¿Dónde?: Isla de Nam Cobandai – Habla con Noir con la “Llave de la Oscuridad” 
+
+Toallero
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Spa de Keterburg 
+
+Espada salvaje
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest – Trajes de batalla 
+
+Cocinero
+Efecto: Aumenta un 5% las posibilidades de cocinar bien 
+¿Dónde?: Sidequest – Títulos de cocina 
+
+Vizconde
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Vizconde
+
+Hijo de vagabundo 
+Efecto: No hay que pagar por luchar en el Coliseo y el dinero del premio aumenta x1,5 
+¿Dónde?: Sidequest - Títulos para todos
+
+Dragon Buster 
+Efecto: Cambio de traje 
+¿Dónde?: Minijuego - Dragon Buster en la Isla de Nam Cobandai
+
+Espada de espadas
+Efecto: Aumenta el límite cada 15 segundos cuando se anda por el mapa 
+¿Dónde?: Gana el modo individual avanzado con Luke en el Coliseo 
+
+Abyss Rojo
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Abyssman
+
+Berserker 
+Efecto: Cambio de traje; recupera un 2% de HP y TP cada 15 segundos cuando se anda por mapa 
+¿Dónde?: Sidequest - Berserker
+
+Líder táctico
+Efecto: Cambio de traje; recupera un 2% de HP y TP y  aumenta el límite cada 15 segundos cuando se anda por el mapa; menos posibilidades de que te ataquen por sorpresa
+¿Dónde?: Sidequest - Catalizadores
+
+¿Dragon Buster? 
+Efecto: Cambio de traje 
+¿Dónde?: Minijuego - Dragon Buster en la Isla de Nam Cobandai (a partir de la segunda partida) 
+
+******************************************* 
+
+-- Tear Grants -- 
+Intrusa misteriosa
+Efecto: Recupera un 2% de HP cada 15 segundos cuando se está quieto en el mapa
+¿Dónde?: Título del principio 
+
+Hermana de Van
+Efecto: Cura el envenenamiento cuando se está quieto en el mapa durante 15 segundos
+¿Dónde?: En la historia principal 
+
+Fuerte de corazón
+Efecto: Cura las artes selladas cuando se está quieto en el mapa durante 15 segundos
+¿Dónde?: En la historia principal 
+
+Maestra de los himnos fónicos 
+Efecto: Recupera un 2% de TP cada 15 segundos cuando se anda por el mapa 
+¿Dónde?: En la historia principal 
+
+Cantante del verso
+Efecto: Dependiendo de la suerte, puede evitar las batallas estando quieto en el mapa 
+¿Dónde?: En la historia principal 
+
+Coronel locrio
+Efecto: Cambio de traje; el equipo recupera un 2% de TP cada 15 segundos cuando se está en un punto de guardado
+¿Dónde?: Sidequest -  Coronel locrio
+
+Camarera despreocupada
+Efecto: Emoticono especial (nota musical) cuando Tear usa el Vuelo de Mieu 
+¿Dónde?: Minijuego - Camarera en el restaurante que hay en el hotel de Keterburg
+
+Hermana mayor
+Efecto: El equipo recupera un 2% de HP cada 15 segundos cuando se anda por el mapa 
+¿Dónde?: Sidequest – Hermana mayor o hablar con Suzanne (la madre de Luke) después de que hayas convencido al rey Ingobert para que firme el tratado de paz y utilizando el título de Tear “Hermana de Van”. 
+
+Sirvienta de las melodías
+Efecto: Reduce el consumo de TP en un 5% cuando se está en un punto de guardado 
+¿Dónde?: Sidequest – Discos de música 
+
+Gran Chef 
+Efecto: Aumenta un 5% las posibilidades de cocinar bien 
+¿Dónde?: Sidequest - Títulos de cocina  
+
+Tía guay
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Trajes de batalla 
+
+Belleza de alquiler
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Spa de Keterburg 
+
+Flor del Qliphoth 
+Efecto: Aumenta un 10% las posibilidades de que te ataquen por sorpresa 
+¿Dónde?: Sidequest - Títulos para todos
+
+Sirvienta orgullosa
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest – Sirvienta orgullosa 
+
+Sanadora perfecta
+Efecto: Aumenta el límite cada 15 segundos cuando se anda por el mapa
+¿Dónde?: Gana el modo individual avanzado con Tear en el Coliseo
+
+Abyss negra
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Abyssman 
+
+Coleccionista de monstruos
+Efecto: Cambio de traje, evita encuentros 
+¿Dónde?: Sidequest – Coleccionista de monstruos
+
+******************************************* 
+
+-- Jade Curtiss -- 
+Coronel 
+Efecto: Recupera un 2% de TP cada 15 segundos cuando se anda por el mapa 
+¿Dónde?: Título del principio 
+
+Nigromante
+Efecto: Cura el envenenamiento cuando se está quieto en el mapa durante 15 segundos
+¿Dónde?: En la historia principal 
+
+Padre de la fomicría
+Efecto: Cura la petrificación cuando se está quieto en el mapa durante 15 segundos
+¿Dónde?: En la historia principal 
+
+Intuitivo
+Efecto: Aumenta el límite cuando se está quieto en el mapa durante 15 segundos
+¿Dónde?: En la historia principal 
+
+Malo tierno
+Efecto: Aumenta un 5% la eficacia de los objetos sanadores (por ejemplo los geles, los elixires o los pomos de vida) cuando se está en un punto de guardado 
+¿Dónde?: Sidequest – Malo tierno 
+
+Mejor amigo del Emperador
+Efecto: 3% de descuento cuando se compra en las tiendas 
+¿Dónde?: Sidequest – Los cerdinejos de Peony 
+
+Jugador de corazón
+Efecto: Compra fichas en el Casino por 200 gald en lugar de por 300
+¿Dónde?: Sidequest - Títulos para todos
+
+Chef experimental
+Efecto: Aumenta un 5% las posibilidades de cocinar bien 
+¿Dónde?: Sidequest - Títulos de cocina  
+
+Agente de la ley
+Efecto: Sólo puede comprar los objetos con el precio más bajo que salen en el juego
+¿Dónde?: Sidequest – Agente de la ley
+
+¿Fonista malvado? 
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Trajes de batalla 
+
+Rey del descanso 
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Spa de Keterburg 
+
+Doctor Mambo 
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Doctor Mambo
+
+Maestro de batalla
+Efecto: Cambio de traje; aumenta el límite cada 15 segundos cuando se anda por el mapa 
+¿Dónde?: Gana el modo individual avanzado con Jade en el Coliseo
+
+Abyss azul
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Abyssman 
+
+Coleccionista de objetos
+Efecto: Accede a la tienda secreta de Gran Chokmah
+¿Dónde?: Sidequest – Coleccionista de objetos
+
+******************************************* 
+
+-- Anise Tatlin -- 
+Guardiana del Maestro Fónico
+Efecto: Recupera un 2% de HP cada 15 segundos cuando se está quieto en el mapa
+¿Dónde?: Título del principio 
+
+Ex Guardiana
+Efecto: Aumenta un 5% las posibilidades de cocinar bien cuando se está en un punto de guardado 
+¿Dónde?: En la historia principal 
+
+Espía
+Efecto: Puede curar los estados alterados cuando se anda por el mapa 
+¿Dónde?: En la historia principal 
+
+Última Guardiana del Maestro Fónico
+Efecto: Recupera un 2% de TP cada 15 segundos cuando se está quieto en el mapa
+¿Dónde?: En la historia principal 
+
+Niña madura
+Efecto: Aumenta las posibilidades de encontrar comida en la bolsita mágica
+¿Dónde?: Entrando en el Casino
+
+Empujona
+Efecto: Aumenta un 3% el beneficio al vender objetos 
+¿Dónde?: Completa todos los minijuegos de ordenar almacenes 
+
+Pequeña gran chef
+Efecto: Aumenta un 5% las posibilidades de cocinar bien 
+¿Dónde?: Sidequest - Títulos de cocina  
+
+Mini experta 
+Efecto: Posadas gratis; aumenta la suerte
+¿Dónde?: Sidequest - Títulos para todos
+
+Infantil
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Trajes de batalla 
+
+No soy una cría
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Spa de Keterburg 
+
+Gata gata gatita gata
+Efecto: Cambio de traje; vende objetos lo más caros que se pueden vender en el juego 
+¿Dónde?: Sidequest - Gata gata gatita gata
+
+Pequeño diablo 
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest – Pequeño diablo
+
+Monada devastadora
+Efecto: Aumenta el límite cada 15 segundos cuando se anda por el mapa 
+¿Dónde?: Gana el modo individual avanzado con Anise en el Coliseo
+
+Gran maestra chef
+Efecto: Aumenta un 7% las posibilidades de cocinar bien y el efecto de las recetas
+¿Dónde?: Sidequest – Títulos de cocina
+
+Abyss rosa
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Abyssman 
+
+******************************************* 
+
+-- Guy Cecil -- 
+Guardián 
+Efecto: Recupera un 2% de HP cada 15 segundos cuando se está quieto en el mapa
+¿Dónde?: Título del principio 
+
+Amigo para siempre
+Efecto: Cura el envenenamiento cuando se está quieto en el mapa durante 15 segundos
+¿Dónde?: En la historia principal 
+
+Noble de Malkuth 
+Efecto: Cura las artes selladas cuando se está quieto en el mapa durante 15 segundos
+¿Dónde?: En la historia principal 
+
+Mejor amigo
+Efecto: Aumenta el límite cada 15 segundos cuando se está quieto en el mapa
+¿Dónde?: En la historia principal 
+
+Estratega sigmundesco
+Efecto: Recupera un 2% de HP cada 15 segundos cuando se anda por el mapa 
+¿Dónde?: Sidequest – Estratega sigmundesco 
+
+Trabajador
+Efecto: 20% de descuento en la tienda de Din 
+¿Dónde?: Sidequest – Trabajador
+
+Chef molón
+Efecto: Aumenta un 5% las posibilidades de cocinar bien 
+¿Dónde?: Sidequest - Títulos de cocina  
+
+Maestro del sable
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Trajes de batalla 
+
+Simio acuático
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Spa de Keterburg 
+
+Demonio travieso
+Efecto: Puedes entrar y salir libremente del spa 
+¿Dónde?: Sidequest - Spa de Keterburg 2
+
+Buen ánimo
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest – Buen ánimo 
+
+Soñador sin remedio
+Efecto: Cambio de traje; si has mejorado el Albiore, aumenta el nivel de activación de la barrera 
+¿Dónde?: Sidequest – Soñador sin remedio
+
+Caballero dorado
+Efecto: Aumenta el límite cada 15 segundos cuando se anda por el mapa 
+¿Dónde?: Gana el modo individual avanzado con Guy en el Coliseo
+
+Abyss naranja 
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Abyssman 
+
+Erudito de la fonotecnología 
+Efecto: Aumenta el nivel de hacer objetos 
+¿Dónde?: Sidequest - Títulos para todos
+
+Caballero galante 
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Cecille y Frings 
+
+******************************************* 
+
+-- Natalia Luzu Kimlasca Lanvaldear -- 
+Princesa de Kimlasca 
+Efecto: Recupera un 2% de TP cada 15 segundos cuando se está quieto en el mapa
+¿Dónde?: Título del principio 
+
+Princesa falsa 
+Efecto: Cura la parálisis cuando se está quieto en el mapa durante 15 segundos
+¿Dónde?: En la historia principal 
+
+Hija de Lanvaldear 
+Efecto: Recupera un 2% de HP cada 15 segundos cuando se anda por el mapa 
+¿Dónde?: En la historia principal 
+
+Princesa popular 
+Efecto: Cura la petrificación cuando se está quieto en el mapa durante 15 segundos
+¿Dónde?: En la historia principal 
+
+Princesa curiosa 
+Efecto: Aumenta las posibilidades en un 80% de encontrar objetos de nivel 2 en los puntos de búsqueda 
+¿Dónde?: Sidequest – Princesa curiosa
+
+Estrella de Malkuth 
+Efecto: Cambio de traje; aumenta las posibilidades en un 80% de encontrar objetos de nivel 3 en los puntos de búsqueda
+¿Dónde?: Sidequest – Estrella de Malkuth
+
+Princesa laberíntica
+Efecto: Aumenta las posibilidades en un 80% de encontrar objetos de nivel 4 en los puntos de búsqueda
+¿Dónde?: Minijuego – Mansión laberinto de Keterburg 
+
+Voluntad imperial 
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Trajes de batalla 
+
+Mariposa tropical
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Spa de Keterburg 
+
+Chef de la calamidad
+Efecto: Aumenta un 5% las posibilidades de cocinar bien 
+¿Dónde?: Sidequest - Títulos de cocina  
+
+Abyss Verde 
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Abyssman 
+
+Princesa del Coliseo
+Efecto: Aumenta el límite cada 15 segundos cuando se anda por el mapa 
+¿Dónde?: Gana el modo individual avanzado con Natalia en el Coliseo
+
+Princesa amada
+Efecto: Cambio de traje; aumenta un 50% las posibilidades de que haya más objetos en los puntos de búsqueda 
+¿Dónde?: Sidequest - Títulos para todos
+
+Princesa aventurera
+Efecto: Cambio de traje; aumenta las posibilidades en un 80% de encontrar objetos de nivel 5 en los puntos de búsqueda
+¿Dónde?: Sidequest – Princesa aventurera 
+
+******************************************* 
+
+-- Asch -- 
+General de Élite
+Efecto: Recupera un 2% de HP cada 15 segundos cuando se anda por el mapa 
+¿Dónde?: Título del principio 
+
+Hijo pródigo
+Efecto: Aumenta el límite cada 15 segundos cuando se está quieto en el mapa
+¿Dónde?: Sidequest – Camino de las Setas 
+
+Abyss plateado
+Efecto: Cambio de traje 
+¿Dónde?: Sidequest - Abyssman
+
+******************************************* 

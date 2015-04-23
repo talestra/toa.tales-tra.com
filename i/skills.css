@@ -1,0 +1,52 @@
+.skillb3 {
+	border: 3px solid #9a9968;
+}
+
+.skillb2 {
+	border: 3px solid #4c6f30;
+}
+
+.skillb1 {
+	border: 3px solid #9a9968;
+}
+
+.skilll {
+	border-collapse: collapse;
+	font: 12px Georgia;
+	cursor: default;
+	border: 4px solid #4c6f30;
+}
+
+.skilll td, .skilll th {
+	padding: 3px 8px;
+	height: 28px;
+}
+
+.skilll img.fof {
+	margin-left: 6px;
+}
+
+.skilll th {
+	text-align: left;
+}
+
+.skilll td.c1, .skilll th.c1 {
+	text-align: center;
+	width: 50px;
+}
+
+.skilll thead {
+	background: #4c6f30;
+	color: white;
+}
+
+.skilll tbody tr:hover {
+	background: white;
+}
+
+span.foft {
+	padding-left: 5px;
+	color: #4c6f30;
+	font: 9px Arial;
+	text-transform: uppercase;
+}

@@ -1,0 +1,349 @@
+HABILIDADES DE LOS PERSONAJES
+
+
+LUKE
+
+Lv. 1  - Fang Blade         [Lightning Tiger Blade -> Wind FoF]
+Lv. 4  - Havoc Strike       [Burning Havoc -> Fire FoF]
+Lv. 8  - Raging Blast       [Frigid Blast -> Water FoF]
+Lv. 12 - Steel              [Coil -> Fire FoF]
+Lv. 15 - Fang Blade Havoc
+Lv. 18 - Fang Blade Rage
+Lv. 21 - Guardian
+Lv. 24 - Raging Havoc
+Lv. 28 - Rending Thrust     [Rending Quake -> Earth FoF]
+Lv. 32 - Guardian Field     [Guardian Frost -> Water FoF]
+Lv. 35 - Rending Fang Blade
+Lv. 38 - Rending Havoc
+Lv. 41 - Rending Blast
+Lv. 45 - Light Spear Cannon [Light Blast -> Wind FoF]
+Lv. 49 - Devil's Inferno    [Devil's Maw -> Earth FoF]
+Lv. 53 - Swallow Fury       [Shadow Fury -> Fire FoF]
+Unlock - Sonic Thrust
+Unlock - Demon Fist
+Unlock - Lightning Blade
+Unlock - Slag Assault
+Unlock - Sonic Blast
+Mystic - Radiant Howl
+Mystic - Ion            [2nd playthrough]
+Mystic - Lost Fon Drive [2nd playthrough]
+
+
+Nv. 1 - Colmillo cortante        [Tigre relámpago ->CdF de viento]
+Nv. 4 - Golpe caótico            [Caos ardiente ->CdF de fuego]
+Nv. 8 - Furia explosiva          [Glaciar explosivo ->CdF de agua]
+Nv. 12 - Acero                   [Espiral ->CdF de fuego]
+Nv. 15 - Colmillo caótico 
+Nv. 18 - Colmillo explosivo
+Nv. 21 - Guardián
+Nv. 24 - Caos explosivo 
+Nv. 28 - Golpe desgarrador       [Seísmo desgarrador ->CdF de tierra]
+Nv. 32 - Campo guardián          [Hielo guardián ->CdF de agua]
+Nv. 35 - Colmillo desgarrador 
+Nv. 38 - Caos desgarrador 
+Nv. 41 - Furia desgarradora 
+Nv. 45 - Cañón de luz            [Ráfaga de luz ->CdF de viento]
+Nv. 49 - Infierno del diablo     [Fauces del diablo->CdF de tierra]
+Nv. 53 - Furia divina            [Furia oscura ->CdF de fuego]
+A desbloquear - Golpe sónico 
+A desbloquear - Puño demoníaco 
+A desbloquear - Espada relámpago 
+A desbloquear - Asalto 
+A desbloquear - Estallido sónico 
+Arte místico - Aullido radiante
+Arte místico - Ion  [2ª partida]
+Arte místico - Impulso fónico perdido [2ª partida]
+
+
+
+
+
+
+TEAR 
+
+Lv. 1  - First Aid        [Meditation -> Water FoF]
+Lv. 1  - Nightmare
+Lv. 5  - Pow Hammer       [Frozen Hammer -> Water FoF]
+Lv. 9  - Invoke Ground
+Lv. 10 - Invoke Aqua
+Lv. 11 - Invoke Flame
+Lv. 12 - Invoke Gale
+Lv. 13 - Nocturnal Light  [Inlay Nocturne -> Wind FoF]
+Lv. 16 - Charge           [Tribute -> Earth FoF]
+Lv. 20 - Healing Circle   [Fairy Circle -> Wind FoF]
+Lv. 27 - Resurrection     [Regenerate -> Water FoF]
+Lv. 31 - Severed Fate     [Fatal Circle -> Wind FoF]
+Lv. 31 - Eclair de Larmes [Flamme Rouge -> Fire FoF]
+Lv. 37 - Enhance Cast     [Witchcraft -> Wind FoF]
+Lv. 40 - Banishing Sorrow [Searing Sorrow -> Fire FoF]
+Lv. 44 - Revitalize
+Lv. 48 - Holy Lance       [Cluster Raid -> Earth FoF]
+Lv. 58 - Grand Cross
+Unlock - Force Field
+Unlock - Holy Song
+Unlock - Judgment
+Mystic - Innocent Shine
+Mystic - Fortune's Arc    [2nd playthrough, all fonic hymns 50 times]
+
+
+Nv. 1  - Primeros auxilios [Meditación-> CdF de agua]
+Nv. 1  - Pesadilla 
+Nv. 5  - Martillo          [Martillo glacial -> CdF de agua]
+Nv. 9  - Invocar tierra
+Nv. 10 - Invocar agua 
+Nv. 11 - Invocar llama 
+Nv. 12 - Invocar vendaval 
+Nv. 13 - Luz nocturna      [Incrustación nocturna -> CdF de viento]
+Nv. 16 - Cargar            [Tributo -> CdF de tierra]
+Nv. 20 - Círculo curativo  [Círculo de hadas -> CdF de viento]
+Nv. 27 - Resurrección      [Regenerar -> CdF de agua]
+Nv. 31 - Destino truncado  [Círculo fatal -> CdF de viento]
+Nv. 31 - Éclair de larmes  [Flamme rouge -> CdF de fuego]
+Nv. 37 - Mejorar conjuro   [Brujería -> CdF de viento]
+Nv. 40 - Pena proscrita    [Pena ardiente-> CdF de fuego]
+Nv. 44 - Revitalizar 
+Nv. 48 - Lanzas sacras     [Grupo de asalto -> CdF de tierra]
+Nv. 58 - Cruz ingente 
+A desbloquear - Campo de fuerza
+A desbloquear - Canción sacra 
+A desbloquear - Juicio 
+Arte místico - Resplandor inocente
+Arte místico - Arco de la fortuna   [2ª partida]
+
+
+
+
+
+
+
+
+
+
+
+JADE  
+
+
+Lv. 1  - Sonic Spear     [Crushing Spear -> Earth FoF]
+Lv. 1  - Energy Blast    [Photon -> Wind FoF]
+Lv. 9  - Stalagmite      [Eruption -> Fire FoF]
+Lv. 14 - Splash          [Icicle Rain -> Earth FoF]
+Lv. 17 - Thunder Lance   [Lightning Tempest -> Wind FoF]
+Lv. 23 - Turbulence      [Flare Tornado -> Fire FoF]
+Lv. 28 - Flame Burst     [Explosion -> Wind FoF]
+Lv. 32 - Impaling Heaven [Goring Hell -> Fire FoF]
+Lv. 36 - Ground Dasher   [Frigid Coffin -> Water FoF]
+Lv. 40 - Blessed Drops   [Divine Saber -> Wind FoF]
+Lv. 44 - Sovereign Gale  [Mighty Deluge -> Water FoF]
+Lv. 48 - Thunder Blade   [Gravity Well -> Earth FoF]
+Lv. 52 - Infernal Prison [Raging Mist -> Water FoF]
+Unlock - Absolute
+Unlock - Prism Sword
+Unlock - Meteor Storm
+Mystic - Mystic Cage
+Mystic - Indignation     [2nd playthrough]
+
+
+Nv. 1  - Lanza sónica            [Lanza aplastante-> CdF de tierra]
+Nv. 1  - Explosión de energía    [Fotón-> CdF de viento]
+Nv. 9  - Estalagmita             [Erupción-> CdF de fuego]
+Nv. 14 - Salpicadura             [Carámbanos -> CdF de tierra]
+Nv. 17 - Lanza del trueno        [Tormenta eléctrica -> CdF de viento]
+Nv. 23 - Turbulencia             [Tornado ardiente -> CdF de fuego]
+Nv. 28 - Llama explosiva         [Explosión -> CdF de viento]
+Nv. 32 - Empalamiento celestial  [Cuerno infernal -> CdF de fuego]
+Nv. 36 - Terremoto               [Ataúd glacial -> CdF de agua]
+Nv. 40 - Gotas benditas          [Sable divino -> CdF de viento]
+Nv. 44 - Vendaval imperial       [Diluvio universal -> CdF de agua]
+Nv. 48 - Espada del trueno       [Pozo gravitatorio -> CdF de tierra]
+Nv. 52 - Prisión infernal        [Niebla ardiente -> CdF de agua]
+A desbloquear - Absoluto
+A desbloquear - Prisma de espadas
+A desbloquear - Meteoritos
+Arte místico - Jaula mística
+Arte místico - Indignación     [2ª partida]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GUY
+
+Lv. 1  - Demon Fang          [Infernal Torrent -> Fire FoF]
+Lv. 9  - Crescent Strike     [Frigid Moon -> Water FoF]
+Lv. 12 - Void Tempest        [Dragon Tempest -> Wind FoF]
+Lv. 15 - Center              [Focus -> Earth FoF]
+Lv. 18 - Moonlight Demon
+Lv. 21 - Guardian
+Lv. 24 - Demonic Void
+Lv. 27 - Tiger Blade         [Wyrm Wrath -> Earth FoF]
+Lv. 30 - Demonic Tiger Blade
+Lv. 33 - Beast               [Thunder Beast -> Wind FoF]
+Lv. 36 - Moonlight Tempest
+Lv. 40 - White Tiger Strike
+Lv. 44 - Severing Wind       [Searing Gale -> Fire FoF]
+Lv. 48 - Nihil Blade Tempest
+Lv. 52 - Sword Rain: Alpha   [Eternal Quake -> Earth FoF]
+Lv. 58 - Final Cross         [Final Glacier -> Water FoF]
+Unlock - Tempest
+Unlock - Soaring Light Spear
+Mystic - Razing Phoenix
+Mystic - Brilliant Overlord  [2nd playthrough]
+
+
+Nv. 1  - Colmillo demoníaco      [Torrente infernal-> CdF de fuego]
+Nv. 9  - Tajo creciente          [Luna glacial -> CdF de agua]
+Nv. 12 - Vacío tempestuoso       [Tormenta de dragón -> CdF de viento]
+Nv. 15 - Centrar                 [Concentración -> CdF de tierra]
+Nv. 18 - Demonio lunar
+Nv. 21 - Guardián
+Nv. 24 - Vacío demoníaco
+Nv. 27 - Tajo del tigre          [Furia de Wyrm -> CdF de tierra]
+Nv. 30 - Tigre demoníaco
+Nv. 33 - Bestia                  [Bestia del trueno -> CdF de viento]
+Nv. 36 - Tempestad lunar
+Nv. 40 - Tajo del tigre blanco
+Nv. 44 - Viento cortante         [Vendaval candente -> CdF de fuego]
+Nv. 48 - Tempestad nihilista
+Nv. 52 - Lluvia alfa [Seísmo eterno-> CdF de tierra]
+Nv. 58 - Cruz final [Glaciar final -> CdF de agua]
+A desbloquear - Tempestad
+A desbloquear - Lanza voladora
+Arte místico - Fénix devastador
+Arte místico - Noble ilustre [2ª partida]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANISE
+
+  
+Lv. 1  - Dragon Surge      [Stone Dragon Ascent -> Earth FoF]
+Lv. 1  - Limited           [Spark Wave -> Wind FoF]
+Lv. 8  - Dual Punishment   [Lightning Punishment -> Wind FoF]
+Lv. 11 - Eagle Dive        [Frigid Raptor -> Water FoF]
+Lv. 15 - Dual Dragon Surge
+Lv. 18 - Shadow Raid       [Fire Dragon Blast -> Fire FoF]
+Lv. 21 - Negative Gate     [Crimson Riot -> Fire FoF]
+Lv. 26 - Mighty Charge     [Mighty Circuit -> Earth FoF]
+Lv. 26 - Shadow Punishment
+Lv. 30 - Guardian
+Lv. 32 - Shadow Tempest
+Lv. 35 - Cyclone Shot      [Cyclone Blaze -> Fire FoF]
+Lv. 40 - Miracle Hammer    [Rock Mountain - Earth FoF]
+Lv. 48 - Soaring Blast     [Brutal Torrent -> Water FoF]
+Lv. 52 - Bloody Howling    [Maelstrom -> Water FoF]
+Lv. 56 - Lucky             [Happy Light -> Wind FoF]
+Lv. 56 - Surge Breaker     [Gungnir A Go Go -> Wind FoF]
+Mystic - Final Fury
+Mystic - Dying Moon        [2nd playthrough]
+Mystic - Fever Time        [2nd playthrough]
+
+
+
+Nv. 1  - Ola de dragón      [Ascensión de dragón -> CdF de tierra]
+Nv. 1  - Limitado           [Onda chispeante -> CdF de viento]
+Nv. 8  - Castigo doble      [Castigo eléctrico -> CdF de viento]
+Nv. 11 - Picado de águila   [Ave glacial -> CdF de agua]
+Nv. 15 - Castigo de dragón
+Nv. 18 - Asalto oscuro      [Fuego del dragón -> CdF de fuego]
+Nv. 21 - Portal negativo    [Disturbio carmesí -> CdF de fuego]
+Nv. 26 - Carga poderosa     [Circuito poderoso -> CdF de tierra]
+Nv. 26 - Castigo oscuro
+Nv. 30 - Guardián
+Nv. 32 - Tempestad oscura
+Nv. 35 - Disparo de ciclón  [Ciclón ardiente -> CdF de fuego]
+Nv. 40 - Martillo milagroso [Roca montañosa -> CdF de tierra]
+Nv. 48 - Ascenso explosivo  [Torrente brutal -> CdF de agua]
+Nv. 52 - Aullido maldito    [Vorágine -> CdF de agua]
+Nv. 56 - Suerte             [Luz feliz -> CdF de viento]
+Nv. 56 - Rompeolas          [Gungnir -> CdF de viento]
+Arte místico - Furia final
+Arte místico - Luna moribunda    [2ª partida]
+Arte místico - Noche de fiesta   [2ª partida]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NATALIA
+
+  
+Lv. 1  - Piercing Line   [Voltaic Line -> Wind FoF]
+Lv. 1  - Heal            [Healing Wind -> Wind FoF]
+Lv. 11 - Storm Edge      [Blast Edge -> Fire FoF]
+Lv. 16 - Barrier         [Aqua Protection -> Water FoF]
+Lv. 19 - Recover         [Purify -> Wind FoF]
+Lv. 23 - Aerial Laser    [Astral Laser -> Wind FoF]
+Lv. 28 - Sharpness       [Blaze Emitter -> Fire FoF]
+Lv. 30 - Resist          [Anti-Magic -> Earth FoF]
+Lv. 35 - Star Stroke     [Quake Stroke -> Earth FoF]
+Lv. 38 - Scare Shot      [Calamitous Bane -> Water FoF]
+Lv. 42 - Star Embrace    [Blue Embrace -> Water FoF]
+Lv. 46 - Cure            [Restore -> Earth FoF]
+Lv. 50 - Cavalry         [Phalanx -> Fire FoF]
+Lv. 54 - Revive          [Angel's Breath -> Earth FoF]
+Unlock - Gallant Barrage
+Unlock - Healing Force
+Mystic - Astral Rain
+Mystic - Noble Roar      [2nd playthrough]
+
+Nv. 1  - Línea perforadora [Línea voltaica -> CdF de viento]
+Nv. 1  - Curar             [Viento curativo -> CdF de viento]
+Nv. 11 - Filo tempestuoso  [Filo explosivo -> CdF de fuego]
+Nv. 16 - Barrera           [Protección acuática -> CdF de agua]
+Nv. 19 - Recuperar         [Purificar -> CdF de viento]
+Nv. 23 - Láser aéreo       [Láser astral -> CdF de viento]
+Nv. 28 - Audacia           [Lanzallamas -> CdF de fuego]
+Nv. 30 - Resistir          [Antimagia -> CdF de tierra]
+Nv. 35 - Temblor estelar   [Golpe sísmico -> CdF de tierra]
+Nv. 38 - Disparo aterrador [Maldición calamitosa -> CdF de agua]
+Nv. 42 - Abrazo estelar    [Abrazo azul -> CdF de agua]
+Nv. 46 - Sanar             [Restaurar -> CdF de tierra]
+Nv. 50 - Calvario          [Falange -> CdF de fuego]
+Nv. 54 - Resurrección      [Aliento de ángel -> CdF de tierra]
+A desbloquear - Descarga galante
+A desbloquear - Fuerza curativa
+Arte místico - Lluvia astral
+Arte místico - Rugido noble      [2ª partida]
+
+
+
+

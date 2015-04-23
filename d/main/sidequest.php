@@ -1,0 +1,593 @@
+<style>
+
+</style>
+<div class="box1" id="filter" style="float:right;width:160px;margin:0 0 10px 10px;"></div>
+<div id="sidequestsPage">
+<div id="warning">
+<p><strong>Atención:</strong> no leas esta sección hasta que hayas completado Tales of the
+Abyss por lo menos una vez, porque aquí hay muchísimos spoilers. Lo mismo se puede decir
+de la entrevista a los personajes y la explicación de sus títulos.</p>
+
+<p>Las sidequests son pequeñas aventuras alternativas que no son necesarias para completar
+la historia del juego principal. En estas pequeñas búsquedas podrás conseguir objetos
+importantes, títulos, recetas, etc. Si quieres completar el juego al 100%, prepárate, porque
+tienes Tales of the Abyss para rato. Antes que empieces a leer o a buscar por aquí, queremos
+dejar claro que no está todo (aunque sí gran parte), ya que hay pequeñas escenas ocultas.</p>
+</div>
+
+<div id="sidequests">
+<div>
+	<h2>ARTES ARCANAS DE LUKE</h2>
+	<label>Primera partida, artes arcanas, Luke</label>
+	<p>Tienes que buscar cuatro libros durante el juego.</p>
+	<p>Libro 1: Después de encontrarte con Natalia por primera vez, habla con Ramdas (normalmente está en primera sala que hay al entrar en la mansión de los Fabre) y te dirá que una sirvienta se ha desecho de unos libros de Van. Te dará 20.000 gald para que puedas volver a comprarlos. Ve al puerto de Baticul y encontrarás a un mercader. Págale los 20.000 gald y Luke aprenderá &ldquo;Puño demoníaco&rdquo;.</p>
+	<p>Libro 2: Después de que San Binah se hunda, ve a Ciudad de Yulia y, cerca de la habitación de Tear, debería haber un hombre. Habla con él y te pedirá mucho gald. Ve a hablar con la madre de Luke y, después de la escena, ella de te dará el dinero. Vuelve a hablar con ese hombre y Luke aprenderá &ldquo;Espada relámpago&rdquo;.</p>
+	<p>Libro 3: Después de que Nephry te hable de Dist, ve al hotel de Keterburg y habla con el hombre de la parte derecha del mostrador. Éste también te pedirá mucho gald, así que ve a ver a la madre de Luke otra vez. Vuelve a Keterburg con el dinero y Luke aprenderá &ldquo;Asalto&rdquo;.</p>
+	<p>Libro 4: Después de volver del Portal de la Radiación, ve a la biblioteca secreta de Daath. Habla con el hombre que está mirando por la ventana. Cuando te pida dinero, ve otra vez a meterle el sablazo a la pobre madre de Luke. Vuelve a Daath y Luke aprenderá &ldquo;Estallido sónico&rdquo;.</p>
+</div><div>
+	<h2>EL ENTRENAMIENTO DE GUY Y LUKE</h2>
+	<label>Primera partida, artes arcanas, Guy</label>
+	<p>Después de dormir en San Binah, pero antes de entrar en Akzeriuth, duerme otra vez en la posada de San Binah y Guy y Luke saldrán a entrenar con la espada. Al final, Luke aprenderá &ldquo;Golpe sónico&rdquo;.</p>
+</div><div>
+	<h2>TÍTULO PARA LUKE: BERSERKER</h2>
+	<label>Primera partida, títulos, Luke</label>
+	<p>Para obtenerlo, tienes que luchar 256 batallas en dificultad difícil o superior (aunque no sé si tienen que ser batallas consecutivas o no). Después de esto, ve al Coliseo después de acabar el Portal de la Absorción por primera vez  teniendo a Natalia en el equipo. En la entrada del Coliseo, coge el camino de la derecha y pasa por la siguiente puerta, la que lleva a las gradas. Habla con el hombre que está en el pilar derecho y Luke obtendrá este título, así como el traje correspondiente.</p>
+</div><div>
+	<h2>TÍTULO PARA LUKE: VIZCONDE</h2>
+	<label>Primera partida, títulos, Luke</label>
+	<p>Una vez tengas todos los artes arcanas de Luke, después de recomprar todos los libros, y después de que hayas completado el Portal de la Radiación, ve a hablar con Ramdas, y te contará algo sobre una ceremonia. Después de la escena, Luke recibirá el título y el traje de vizconde.</p>
+</div><div>
+	<h2>TÍTULO PARA LUKE: INVERSOR</h2>
+	<label>Primera partida, títulos, Luke</label>
+	<p>Después de completar la Isla de Feres, habla con Aston en la sala de reuniones de Sheridan. Te dirá que necesita un millón de gald para reconstruir el puente. Dile que lo financiarás. Sí, es mucha pasta, y es difícil conseguir tanta. El lugar donde los monstruos sueltan más dinero es en el laboratorio de réplicas The Abyss, y también te ayudaría estar en tu segunda partida y pudiendo conseguir más gald de lo normal. Cuando tengas el dinero, dáselo a Aston y duerme en Sheridan unas cuatro o cinco veces. Luego, habla con Aston y Luke recibirá el título de “Inversor”.</p>
+</div><div>
+	<h2>LOS HIMNOS DE TEAR</h2>
+	<label>Primera partida, artes fónicos, Tear</label>
+	<p>Tear puede aprender dos canciones.</p>
+	<p>Himno 1: Después de que Luke se corte el pelo y estés a punto de ir a ver a Teodoro, una mujer le pedirá a Tear que se pase a verla. Hazle caso y entra justo en la puerta que hay debajo de la sala de reuniones. Habla con ella y Tear aprenderá &ldquo;Canción sacra&rdquo;.</p>
+	<p>Himno 2: Después de que Luke visite al doctor en Belkend, pero antes de acabar el Portal de la Absorción por segunda vez, ve a la habitación de Ion en Daath, donde verás una escena. Tear aprenderá &ldquo;Juicio&rdquo;.</p>
+</div><div>
+	<h2>TÍTULO PARA TEAR: SIRVIENTA ORGULLOSA</h2>
+	<label>Primera partida, títulos, Tear</label>
+	<p>Después de que hayas convencido al rey Ingobert para que firme el tratado de paz y tras haber pasado por el Valle de Tataroo por segunda vez, ves al cuarto de Natalia en el castillo de Baticul y obtendrás el título de Tear “Sirvienta orgullosa”.</p>
+</div><div>
+	<h2>TÍTULO PARA TEAR: COLECCIONISTA DE MONSTRUOS</h2>
+	<label>Segunda partida, títulos, Tear</label>
+	<p>Para conseguirlo, tiene que estar en tu segunda partida. Después de acabar el Portal de la Absorción por primera vez y cuando tengas a Natalia en el equipo, ve al hotel de Keterburg, a la tercera planta. Ve hacia la izquierda y entra en la primera puerta que puedas. Habla con el gatoz y te encargará un trabajo. Tendrás que luchar contra tres monstruos:</p>
+	<p>Monstruo 1: Ve al pantano de Inista y derrota al Behemoth (se le encuentra más rápidamente entrado por la parte cercana a Sheridan)</p>
+	<p>Monstruo 2: (necesitas la piedra de vuelo refinada) Ve al desierto de Chesedonia y métete en la tormenta de arena con el Albiore. Aterriza y explora un poco hasta que te aparezca un gusano gigante. Ése es tu objetivo.</p>
+	<p>Monstruo 3: Derrota al Replicantis en el laboratorio de réplicas, The Abyss.</p>
+	<p>Después de derrotar a los tres monstruos, ve a ver al gatoz del hotel y habla con él. Tear recibirá un título con un traje de gata negra.</p>
+</div><div>
+	<h2>TÍTULOS PARA TEAR: HERMANA MAYOR Y CORONEL LOCRIO</h2>
+	<label>Primera partida, títulos, Tear</label>
+	<p>Para conseguir los títulos de Tear, tienes que ver estas escenas por orden:</p>
+	<ol>
+		<li>Cuando llegues a Daath, duerme en la posada.</li>
+		<li>Cuando llegues a Sheridan, duerme en la posada.</li>
+		<li>Cuando se hunda Chesedonia, duerme en la posada de Daath.</li>
+		<li>Cuando hayas ido al Valle de Tataroo por segunda vez, duerme en la posada de Sheridan. Tear conseguirá su título de “Hermana mayor”.</li>
+		<li>En Eldrant verás una escena con Legretta. Después, Tear recibirá el título de “Coronel Locrio”.</li>
+		<li>Cuando ya hayas visto todo esto, ve a Ciudad de Yulia y entra en el jardín que hay en el cuarto de Tear. Allí recibirás su título.</li>
+	</ol>
+	<p>Ten cuidado, porque sólo recibirás el título de “Coronel locrio” si has conseguido antes el de “Hermana mayor” y si has recuperado el colgante de Tear.</p>
+</div><div>
+	<h2>TÍTULO PARA TEAR: SIRVIENTA DE LAS MELODÍAS</h2>
+	<label>Primera partida, títulos, Tear</label>
+	
+	<p>Esta búsqueda es bastante larga. Tienes que conseguir todos los discos de música para la máquina que hay en Sheridan. No tienes por qué hacerlo en orden, excepto el último.</p>
+	
+	<p>Parte 1: Al entrar a Daath, sube las escaleras que quedan a mano izquierda y consigue el disco Preludio.</p>
+	<p>Parte 2: En Daath, dentro de la sede del Oráculo, hay un cofre que contiene el disco Ladrón Noble.</p>
+	<p>Parte 3: Después de haber conocido a Ishtar en Sheridan, ve a Gran Chokmah y examina la pared que hay entre la posada y la tienda. En el cofre está el disco.</p>
+	<p>Parte 4: Primero, tienes que haber salvado a Shiba en manantial de Aramís (después de haber estado en las ruínas Zao por segunda vez), ya que te dará el retrato del rey (un objeto importante) que se puede utilizar en el Castillo de Coral para encontrar el disco Réquiem.</p>
+	<p>Parte 5: En la isla de Nam Cobandai, ve a la habitación de las cámaras. Hay un gatoz escondido, que no sale en la pantalla del juego. Tan solo muévete cerca del borde de la pantalla y presta atención al botón examinar/hablar que debe aparecer cuando estés cerca del gatoz. Así deberías obtener el disco Comedia.</p>
+	<p>Parte 6: En el monte Zaleho encontrarás un cofre con uno de los discos.</p>
+	<p>Parte 7: Después de haber entrado a Eldrant, ve a la parte norte de Chesedonia y habla con la mujer que siempre está dando palmas. Te dará el último disco.</p>
+	 
+	<p>Cuando ya los tengas todos, vuelve a la casa de la máquina de música de Sheridan. Verás una escena y Tear recibirá el título de “Sirvienta de las melodías”.</p>
+	
+</div><div>
+	<h2>LOS VERSOS PROHIBIDOS DE JADE</h2>
+	<label>Primera partida, artes fónicos, Jade</label>
+	<p>Hay que encontrar nueve piedras, y cada vez que reúnes tres, Jade aprende un nuevo y poderoso hechizo. Los primeros cinco se pueden encontrar después de traer a Natalia de vuelta del Portal de la Absorción, pero los últimos cuatro sólo después de terminar con el Portal de la Radiación.</p>
+	<p>Para empezar, tienes que ir a los cuarteles militares de Malkuth, a la sala de información y hablar con el hombre que hay allí, quien te dará un pergamino antiguo. Ahora, ve a San Binah y habla con el viejo McGovern para empezar esta búsqueda.</p>
+	<p>Piedra 1: Ve a Chesedonia y entra en la posada. Ve a la segunda planta y examina las cómodas de las habitaciones hasta que la encuentres.</p>
+	<p>Piedra 2: Entra en Keterburg por el lado sur y mira la escena. Luego ve a la plaza que hay al norte y examina la parte de atrás de la estatua.</p>
+	<p>Piedra 3: Entra en Sheridan por la parte sur y ve al noroeste para ver una escena. Jade aprenderá &ldquo;Congelación&rdquo;.</p>
+	<p>Piedra 4: Ve a Belkend y ve a la habitación donde viste a Spinoza por primera vez. Dos habitaciones hacia el norte y una hacia el este de la entrada. Explora el suelo la parte derecha para encontrar la piedra.</p>
+	<p>Piedra 5: Ve al puerto de Kaitzur y la recibirás automáticamente.</p>
+	<p>Piedra 6: Ve al Portal de la Radiación y Jade encontrará la piedra en cuanto entres. Aprenderá &ldquo;Prisma de espadas&quot;.</p>
+	<p>Piedra 7: Ve a Daath, a la habitación de Ion, y habla con Florian.</p>
+	<p>Piedra 8: Entra en el río Fubras por la parte norte y verás una escena.</p>
+	<p>Piedra 9: Ve al edificio principal de Ciudad de Yulia. Examina la esquina nordeste de la planta baja. Jade aprenderá &ldquo;Meteoritos&rdquo;.</p>
+</div><div>
+	<h2>TÍTULO PARA JADE: DOCTOR MAMBO</h2>
+	<label>Primera partida, títulos, Jade</label>
+	<p>Después de ver la escena de Largo y Natalia en el Puerto de Baticul y antes de entrar en Eldrant, ve al laboratorio que hay en Belkend. Allí verás una escena y Jade recibirá su título.</p>
+</div><div>
+	<h2>TÍTULO PARA JADE: COLECCIONISTA DE OBJETOS</h2>
+	<label>Segunda partida, títulos, Jade</label>
+	<p>Para conseguirlo, tiene que estar en tu segunda partida. Cuando acabes el monte Zaleho por segunda vez, y hayas completado el Libro de Viaje, ve a Daath , mira la escena y Jade recibirá su título.</p>
+</div><div>
+	<h2>TÍTULO PARA JADE: AGENTE DE LA LEY</h2>
+	<label>Primera partida, títulos, Jade</label>
+	<p>Cuando Jade se vuelva a unir al equipo después de completar el Portal de la Absorción, si vas a la tienda de Din y consigues un objeto de nivel 3, Jade conseguirá este título.</p>
+</div><div>
+	<h2>TÍTULO PARA JADE: MALO TIERNO</h2>
+	<label>Primera partida, títulos, Jade</label>
+	<p>Después de que Natalia se una al equipo tras completar el Portal de la Absorción, habla con Casim en Gran Chokmah, que estará cerca del bar. Después, podrás ver una escena sobre las gafas de Jade en el segundo piso de la sala de reuniones de Sheridan. Más tarde, después de haber completado la Isla de Feres, podrás ver otra escena delante del bar en Gran Chokmah y Jade recibirá su título de “Malo tierno”.</p>
+</div><div>
+	<h2>ARTES ARCANAS DE GUY</h2>
+	<label>Primera partida, artes arcanas, Guy</label>
+	<p>Hay siete partes en total.</p>
+	<p>Parte 1: Después de hablar con el Rey en Baticul por primera vez, habla con Pere tres veces hasta que él mencione a un tipo llamado Gee, del oasis.</p>
+	<p>Parte 2: Después de entrar en el oasis por primera vez, entra en el bar y habla con el hombre de la esquina. Gee le dará a Guy un objeto especial y le dirá que busque a los otros maestros con los que tiene que hablar.</p>
+	<p>Parte 3: Después de volver al puerto de Kaitzur desde Chesedonia, ve a Kaitzur y dirígete a la parte norte. Entra en la posada y habla con el hombre que hay allí. Guy aprenderá &ldquo;Tempestad&rdquo;.</p>
+	<p>Parte 4: Después de rescatar a Natalia y a Ion de la Sede del Oráculo, dirígete a la catedral pero, a mitad del camino, ve a la derecha y habla con el hombre que está cerca del monumento.</p>
+	<p>Parte 5: Después de que a Guy le quiten la Ranura Maldita, ve a la segunda planta del bar de Gran Chokmah. Habla con el hombre que hay cerca de la barra y él te dará la siguiente pista.</p>
+	<p>Parte 6: Después de que a Guy le quiten la Ranura Maldita, ve a Belkend y busca la máquina enorme que gira. Habla con el tipo que está delante y te dará la última pista.</p>
+	<p>Parte 7: Después de que a Guy le quiten la Ranura Maldita, ve a Keterburg, a la plaza de la parte norte y entra el iglú. Habla con el hombre y Guy aprenderá &ldquo;Lanza voladora&rdquo;.</p>
+</div><div>
+	<h2>TÍTULO PARA GUY: SOÑADOR SIN REMEDIO</h2>
+	<label>Primera partida, títulos, Guy</label>
+	<p>Después de entrar en Eldrant y ver la escena de Ginji, ve a Sheridan y acércate a la sala de reuniones. Guy y Noelle empezarán a conversar y él consigue su título y su traje.</p>
+</div><div>
+	<h2>TÍTULO PARA GUY: TRABAJADOR</h2>
+	<label>Primera partida, títulos, Guy</label>
+	<p>Después de completar la Isla de Feres, ve a Engeve y habla con el hombre que está cultivando el campo. Luego ve a ver a  la persona que está en el almacén que hay cerca de los vendedores. Ahora, ves a buscar las semillas que te han pedido (mira el mapa de la web si necesitas más ayuda). Cuando vuelvas a Engeve con las semillas, Guy recibirá el título de “Trabajador”.</p>
+</div><div>
+	<h2>TÍTULO PARA GUY: BUEN ÁNIMO</h2>
+	<label>Primera partida, títulos, Guy</label>
+	<p>Justo después de que Natalia se una de nuevo al equipo tras completar el Portal de la Absorción, podrás ver una escena con los Alas Oscuras delante del bar de Gran Chokmah. Más tarde, cuando hayas completado las dos escenas del spa, podrás ver una escena en la bahía de Keterburg. Después, ve a hablar con el camarero del bar de Chesedonia para que Guy obtenga su título.</p>
+</div><div>
+	<h2>LAS JOYAS FAMILIARES DE GUY</h2>
+	<label>Primera partida, objetos importantes, Guy</label>
+	<p>Tienes que ver tres escenas para completar esta búsqueda:</p>
+	<p>Escena 1: Antes de que se firme el tratado de paz, habla con Pere, que estará en la primera sala que hay al entrar en la mansión, y mencionará la espada que hay allí colgada.</p>
+	<p>Escena 2: Después de acabar el Portal de la Absorción por primera vez y cuando tengas a Natalia en el equipo, vuelve a la mansión, donde está la espada, y habla con Pere.</p>
+	<p>Escena 3: Después de ver la escena final de Eldrant antes del último jefe, vuelve a la mansión de los Fabre y ve donde está la espada. Habla con el duque Fabre y Guy obtendrá la espada.</p>
+</div><div>
+	<h2>TÍTULO PARA ANISE: PEQUEÑO DIABLO</h2>
+	<label>Primera partida, títulos, Anise</label>
+	<p>Después de completar el Portal de la Radiación, ve a la catedral de Daath. Florian pedirá a Anise que participe en una obra de teatro. Después, Anise se quedará con el traje.</p>
+</div><div>
+	<h2>ARTES ARCANAS DE NATALIA</h2>
+	<label>Primera partida, artes arcanas, Natalia</label>
+	<p>Cuando salgas del Qliphoth con el Tartarus y con Asch en tu equipo, dirígete al puerto de Sheridan (el continente marrón del lado oeste). Allí, busca a un hombre mayor rodeado de unos matones. Sálvalo y Natalia aprenderá &ldquo;Descarga galante&rdquo;.</p>
+	<p>Más tarde, después de completar la segunda pasada por el monte Zaleho, ve al puerto de Daath, y allí volverás a encontrar al mismo hombre. Después de la escena, Natalia habrá aprendido &ldquo;Fuerza curativa&rdquo;.</p>
+</div><div>
+	<h2>TÍTULO PARA NATALIA: PRINCESA CURIOSA</h2>
+	<label>Primera partida, títulos, Natalia</label>
+	<p>Parece ser que cuando has encargado unos cuantos objetos a Din y has visitado la mayoría de puntos de búsqueda, si llevas a Natalia como personaje controlable a la tienda de Din, recibirá su nuevo título.</p>
+	<p><em>Nota: no estamos seguros 100% de esta sidequest.</em></p>
+</div><div>
+	<h2>TÍTULO PARA NATALIA: PRINCESA AVENTURERA</h2>
+	<label>Primera partida, títulos, Natalia</label>
+	<p>Para conseguir este título, debes de haber encontrado todos los puntos de búsqueda. Luego, ve a la tienda de Din y Natalia recibirá su título. Con este título equipado, en el punto de búsqueda número 13, podrás encontrar el rubí de las montañas, un objeto necesario para obtener el arco élfico.</p>
+</div><div>
+	<h2>LABERINTO DE KETERBURG</h2>
+	<label>Primera partida, títulos, Natalia</label>
+	<p>Cuando vas a Keterburg por primera vez, verás que hay un hombre delante de una de las casas que hay en la parte más al este de la ciudad. Te dirá que quiere financiar una obra. Dile que sí, consigue el dinero y, más adelante en el juego, podrás disfrutar del minijuego del laberinto. Cuando completes el minijuego, Natalia recibirá su nuevo título.</p>
+</div><div>
+	<h2>TÍTULOS DE COCINA</h2>
+	<label>Primera partida, títulos, Luke, Tear, Jade, Anise, Guy, Natalia</label>
+	<p>Después de dejar a Florian en Daath, cualquier personaje excepto Asch puede recibir este título si consigue tres estrellas para todas las recetas. Para obtener el título, habla con Bernard en la segunda planta del hotel de Keterburg.</p>
+	<p><em>Especial Anise</em>: cuando ya has entrado en Eldrant, hay una escena con Sesemann en Gran Chokmah si cumples los siguientes requisitos: tener el cuchillo multiusos, la bolsita mágica, tener a Anise como personaje controlable y que esté con el título “Pequeña gran chef”. Si cumples todo esto, obtendrás otro título para Anise.</p>
+</div><div>
+	<h2>TÍTULOS PARA TODOS</h2>
+	<label>Primera partida, títulos, Luke, Tear, Jade, Anise, Guy, Natalia</label>
+	<p>Para conseguir los siguientes títulos, tienes que haber hecho las sidequest de proteger a Engeve de los monstruos, la de construir el puente, la de ayudar al tipo de Ciudad de Yulia y la de Antoleón.</p>
+	<p>Después de haber estado en la Isla de Feres, ve a hablar primero con Astor en Chesedonia. Luego, habla con la madre de Luke para que él obtenga el título de “Hijo de vagabundo”. Verás una escena delante de la posada de Baticul, donde Natalia recibirá el título de “Princesa amada”. Luego, ve a Ciudad de Yulia y habla con el tipo que has ayudado en la otra sidequest, que ahora estará también en la parte izquierda, pero bajo las escaleras, para que Tear reciba el título de “Flor del Qliphoth”. Ahora, dirígete a Keterburg y habla con Nephy para que Jade tenga el título de “Jugador de corazón”. Seguidamente, ve a la colina del cuarto monumento de Daath y Anise recibirá el título de “Mini experta”. Por último, ve al telescopio que hay a la derecha de la tienda de núcleos de capacidad de Sheridan y Guy obtendrá el título de “Erudito de la fonotecnología”.</p>
+</div><div>
+	<h2>VUELO DE MIEU</h2>
+	<label>Primera partida, Mieu</label>
+	<p>Durante tu segunda visita al valle de Tataroo, ve en dirección al anillo de tránsito. Por el camino, después de pasar por uno de los muchos puentes, verás que hay una roca grande en una pared, mirando al norte. Haz que Mieu la rompa y allí dentro encontrarás los fonones para aprender el Vuelo de Mieu.</p>
+</div><div>
+	<h2>FUEGO DE MIEU 2</h2>
+	<label>Primera partida, Mieu</label>
+	<p>Primero, cuando San Binah se hunda, tienes que ir al Manantial de Aramís, donde te encontrarás a un perro y tendrás que salvar a su amo. Luego, después de haber completado el monte Zaleho por segunda vez, ve a Keterburg, en la zona donde había un cofre en un tejado (se llega directamente cogiendo la entrada de la izquierda). Allí te encontrarás con Shiba y Peko y recibirás una semilla de hielo. La escena pasa al monte Zaleho, donde ahora puedes acceder a más lugares, ya que la lava se ha solidificado. Busca por allí abajo y acabarás encontrando los fonones para mejorar el Fuego de Mieu.</p>
+</div><div>
+	<h2>LIBRO DE VIAJE</h2>
+	<label>Primera partida, objetos importantes</label>
+	<p>Al principio del juego, antes de salir para el Bosque de los Cheagles, habla con el tendero al que Luke le robó una manzana. Él te pedirá que encuentres un objeto allí. Cuando lo tengas, ve a dárselo y recibirás el Libro de viaje.</p>
+</div><div>
+	<h2>EL FAN DE SAN BINAH</h2>
+	<label>Primera partida</label>
+	<p>Cuando estés en San Binah por primera vez, y después de que hayas pasado la noche en la posada, dirígete a la otra parte de la ciudad. Allí debería haber un tablón de anuncios con un póster. Haz que Mieu le prenda fuego y te saldrá alguien para quejarse, diciéndote que quiere que lo compenses. Él te dará 200 gald para que le hagas un recado.</p>
+	<p>Cuando llegues a Chesedonia, ve delante de la posada de la parte norte y a mano derecha te quedará un chiringuito medio escondido. Ahí te dirán que tienes que pagar 1.000 gald. Págalos. No, no se le puede meter fuego al chiringuito.</p>
+	<p>Cuando tengas oportunidad, ve a San Binah y pártele la boca al desgraciado ese por haberte intentado estafar. Te devolverá lo que te debe.</p>
+</div><div>
+	<h2>ANTOLEÓN</h2>
+	<label>Primera partida, Antoleón</label>
+	<p>Esta búsqueda tiene cinco fases con &ldquo;límite&quot; (si avanzas demasiado con la historia, no puedes hacerla).</p>
+	<p>Fase 1: Cuando entras en Chesedonia por primera vez, ve a la posada del lado sur. Justo donde está el tipo vendiendo armaduras sentado en una alfombra, métete por allí y encontrarás a Antoleón. Habla con él y te pedirá un gel de manzana. Dáselo, y recibirás una receta.</p>
+	<p>Fase 2: Después de ir a las ruinas Zao, vuelve a hablar con el Antoleón. Te pedirá una cimitarra y unas lentes mágicas. Dáselo todo y él te dará un gel de naranja a cambio.</p>
+	<p>Fase 3: Antes de completar las ruinas Zao por segunda vez, vuelve a Chesedonia y habla con él. Esta vez te pedirá un gel milagroso, una panacea y una manzana. Dáselo y recibirás una capa de ladrón.</p>
+	<p>Fase 4: Después de obtener la piedra de vuelo en Daath, ve a Chesedonia y habla con el Antoleón. Ahora te pedirá una cinta a rayas, carne de vaca y pollo. Seguramente no tendrás la cinta a rayas, pero no te preocupes, se puede comprar en Chesedonia después de completar el Portal de la Radiación. Cuando tengas los objetos, dáselos y él te dará un anillo sagrado y un anillo espiritual.</p>
+	<p>Fase 5: Después de haberle dado los objetos de la fase 4, ya no te pedirá nada más. Te dirá que quiere barcos y que vayas a hablar con Astor. Hazlo y te dará una receta nueva.</p>
+</div><div>
+	<h2>ESPADACHINES INFERNALES</h2>
+	<label>Primera partida, jefes opcionales</label>
+	<p>Hay tres Espadachines infernales con los que puedes luchar a lo largo del juego, pero los dos primeros desaparecerán en momentos concretos. Tienes que luchar con los dos primeros si quieres enfrentarte al tercero.</p>
+	<p>Espadachín infernal 1: Después de completar el Castillo de Coral, pero antes de entrar en Akzerituh, vuelve al puerto de Kaitzur. A la entrada, verás una espada clavada en el suelo. Ése es el Espadachín infernal.</p>
+	<p>Espadachín infernal 2: Después de completar el Bosque de Theor, pero antes de hacer el Portal de la Absorción, examina el punto de búsqueda que hay a la salida del Bosque de Theor para enfrentarte al segundo Espadachín infernal.</p>
+	<p>Espadachín infernal 3: Después de completar la Isla de Feres, vuelve a entrar en cualquier momento y encontrarás al último Espadachín infernal donde viste a Arietta.</p>
+</div><div>
+	<h2>LA LLAVE DE LA OSCURIDAD</h2>
+	<label>Primera partida, objetos importantes</label>
+	<p>Después de que se firme el tratado de paz, pero antes de completar el Portal de la Absorción, ve a Gran Chokmah y dirígete al palacio. En el camino, verás una escena con los Alas Oscuras y recibirás la Llave de la oscuridad que te permitirá abrir una habitación en la Isla de Nam Cobandai.</p>
+</div><div>
+	<h2>LOS CERDINEJOS DE PEONY</h2>
+	<label>Primera partida, títulos, Jade, spa</label>
+	<p>Después de acabar el Portal de la Absorción por primera vez y cuando tengas a Natalia en el equipo, ve a Gran Chokmah y entra en la habitación de Peony. Una sirvienta te preguntará si has visto a los cerdinejos de Su Majestad. Ahora, entra en el cuarto y Peony te pedirá que busques a sus amados cerdinejos. Hay cinco en total:</p>
+	<p>Cerdinejo 1: Sal de la habitación de Peony y examina las escaleras del lado izquierdo.</p>
+	<p>Cerdinejo 2: Ve a la sala de audiencias y examina la parte derecha del trono (por atrás, estará pegado a la pared).</p>
+	<p>Cerdinejo 3: Ve  a la sala de invitados de la segunda planta.</p>
+	<p>Cerdinejo 4: Ve a la biblioteca.</p>
+	<p>Cerdinejo 5: Sal de la biblioteca, debería estar allí.</p>
+	<p>Cuando hayas recuperado los cerdinejos, Peony te dará unos pases para el spa de Keterburg y un título para Jade.</p>
+</div><div>
+	<h2>TÍTULOS: TRAJES DE BAÑO</h2>
+	<label>Primera partida, títulos, spa</label>
+	<p>Cuando Peony te haya dado las entradas para el Spa, ve al hotel de Keterburg. Acércate a la recepcionista y verás una escena. Te preguntará si quieres usar los pases. Acepta y verás a todos en bañador.</p>
+	<p>Después, para ver la segunda escena del Spa, vuelve a hablar con la recepcionista.</p>
+</div><div>
+	<h2>CECILLE Y FRINGS</h2>
+	<label>Primera partida, títulos, Guy</label>
+	<p>Esta búsqueda es algo complicada y tiene un tiempo muy limitado. Si te pierdes aunque sólo sea un poco, te lo pierdes todo. Hay un total de 5 fases:</p>
+	<p>Fase 1: después de que Chesedonia se hunda, y justo después de volver a tener el Albiore, haz lo siguiente:</p>
+	<ul>
+		<li>Ve a Engeve y entra por el sur.</li>
+		<li>Entra en la posada de Engeve.</li>
+		<li>Ve a Kaitzur, entra por el lado sur y ve al edificio de la izquierda.</li>
+		<li>Vuelve a Engeve y entra en la casa de Rose.</li>
+		<li>Ve a Kaitzur y entra por la parte norte. Después de la escena, habla con Frings.</li>
+		<li>Ve al puerto de Kaitzur y entra en el edificio de la derecha.</li>
+		<li>Ve a Engeve y entra en la casa de Rose.</li>
+		<li>Ve al puerto de Kaitzur y habla con la general Cecille.</li>
+		<li>Ve a Chesedonia y entra en la mansión de Astor.</li>
+		<li>Ve a Kaitzur por la parte norte y habla con Frings.</li>
+		<li>Ve al puerto de Kaitzur y habla con la general Cecille.</li>
+	</ul>
+	<p>Fase 2: Después del tratado de paz, ve al puerto de Kaitzur y habla con Cecille.</p>
+	<p>Fase 3: Después de acabar con el portal de la Absorción, pero antes de que Jade vuelva a tu equipo, ve al puerto e Baticul y habla con la general Cecille (si has hecho las dos fases anteriores, no puedes perderte esta, porque pasa casi automáticamente).</p>
+	<p>Fase 4: Después de acabar el Portal de la Absorción y cuando tengas a Natalia en el equipo, ve al puerto de Baticul y habla otra vez con Cecille.</p>
+	<p>Fase 5: Después de tu segunda visita a la Torre de Rem y de que Luke vea al doctor de Belkend, ve a la Torre de Rem otra vez para encontrar a Cecille. La escoltarás automáticamente a Baticul y Guy recibirá un título y un traje.</p>
+</div><div>
+	<h2>TÍTULOS: TRAJES DE BATALLA</h2>
+	<label>Primera partida, títulos</label>
+	<p>Después de ver la escena final de Eldrant antes del último jefe, ve a ver a Peony. Todos recibirán trajes nuevos.</p>
+</div><div>
+	<h2>EL CAMINO DE LAS SETAS</h2>
+	<label>Primera partida, Albiore</label>
+	<p>Después de acabar el Portal de la Absorción y cuando tengas a Natalia en el equipo, ve a la mansión de los Fabre y habla con la madre de Luke y descubrirás que necesitas un tipo de seta.</p>
+	<p>Para encontrar el Camino de las Setas, abre el mapa y selecciona el Bosque de los Cheagles. Verás que al lado hay un río, así que lo que tienes que hacer es seguirlo hasta llegar al mar, poner el Albiore para que flote sobre el agua y remontar río arriba.</p>
+	<p>Cuando llegues allí, tomarás el control de Asch, pero también tendrás que llevar a Luke, ya que necesitas a Mieu para acabar esta zona. Haz que Mieu escupa fuego a las setas que desprenden esporas y saldrán cofres o enemigos. Cuando encuentres una seta que brilla, examínala. Antes de volver a la entrada, toma la salida norte. Encontrarás un punto de búsqueda que contiene una piedra de vuelo mayor para el Albiore, con la cual podrás aterrizar en más lugares. Ahora, ve a la entrada y vuelve a la mansión de los Fabre para acabar esta misión.</p>
+</div><div>
+	<h2>MEJORAS DEL ALBIORE - PIEDRAS DE VUELO</h2>
+	<label>Primera partida, Albiore</label>
+	<p>Piedra de vuelo mayor: haz la búsqueda del Camino de las Setas.</p>
+	<p>Piedra de vuelo refinada: ésta la puedes conseguir la segunda vez que vas al monte Roneal, pero necesitas el Fuego de Mieu 2 y el Vuelo de Mieu.</p>
+	<p>Antes de irte, ve hacia el sur desde el anillo de tránsito. Luego, ve a la izquierda del punto de guardado y ve por el camino sudoeste de la plataforma. Pasa del cofre y llegarás al mapa. Desde ahí, ve al oeste y entrarás en la siguiente sección del monte Roneal.</p>
+	<p>Cuando entres, ve a la izquierda y verás que se romperá el hielo por un alud. Baja por ahí, ve a la derecha y examina un punto azul para recibir una Espada vorpal. Sube por donde has venido y ve a la derecha, donde hay tres árboles. Usa el Vuelo de Mieu para alcanzar los dos cofres que hay arriba.</p>
+	<p>Vuelve a bajar y sube al árbol de la derecha. Sigue el camino y encontrarás un cofre con 15.000 gald. Enciende la antorcha y pasa por la puerta que acabas de abrir</p>
+	<p>Adéntrate en las ruinas y verás que tendrás que encender dos antorchas a la vez. Para hacerlo, ponte delante de una de ellas de manera que el Fuego de Mieu llegue a tocar las dos.</p>
+	<p>Sigue por la puerta que has abierto y llegarás a una sala con una partitura. Fíjate y verás que detrás hay un reflector de cristal. Aquí también hay que encender las dos antorchas a la vez, así que lo que debes hacer es colocarte en diagonal, de manera que el fuego rebote en el reflector y llegue a la segunda antorcha.</p>
+	<p>Cuando lo hayas conseguido, sigue por el camino y te encontrarás delante de otro reflector. Empújalo y ponlo en el lugar que tiene una marca blanca. Ahora debes deshacer el camino y volver al lugar con los tres árboles.</p>
+	<p>Cuando llegues, toma la entrada norte y te encontrarás con muchas antorchas. Tienes que ponerlas de forma diagonal, vigilando siempre que la del centro esté en la marca blanca. El primer conjunto de antorchas debe estar en diagonal empezando por abajo a la izquierda, lo que significa que tienes que empujar la antorcha más inferior hacia la izquierda, dejar la del medio en la marca blanca y empujar la de arriba hacia la derecha. El segundo conjunto de antorchas debe estar en posición contraria al primero, y el tercer conjunto igual que el primero. Debe quedar algo así:</p>
+<pre>
+  X
+ X
+X
+
+X
+ X
+  X
+
+  X
+ X
+X
+</pre>
+	<p>Cuando hayas puesto las antorchas en su sitio, vuelve al principio del monte Roneal, donde está el punto de guardado. Esta vez, ve por el camino del norte, que te llevará enfrente de un gran bloque de hielo. Quítalo de en medio con Mieu y sigue.</p>
+	<p>Sigue por la puerta de abajo y empuja el reflector para ponerlo encima de la marca blanca del suelo. Vuelve atrás y ahora entra por la puerta de arriba. Ponte encima de la marca que hay en el suelo, de manera que el fuego encienda las tres antorchas, se refleje y siga encendiendo las otras por el camino. Cuando lo consigas, verás que se abre una puerta, así que vuelve otra vez a donde está ese montón de antorchas y cruza la puerta, la cual lleva al mapa.</p>
+	<p>En esta zona debes tener cuidado con los monstruos, son bastante fuertes. Ve hacia el norte hasta que no puedas avanzar más. Luego, sigue al este todo lo que puedas y después al sudoeste. Finalmente, encontrarás un punto de búsqueda. Examínalo y encontrarás la piedra de vuelo refinada.</p>
+	<p>Es recomendable guardar la partida en este momento de felicidad. Cuando estés en tu Albiore de nuevo, verás que hay una barra a la derecha de la pantalla, la cual se va llenando cuando la nave coge velocidad en línea recta. Cuando la barra se llena, puedes entrar en la isla de Nam Cobandai, en la parte este de la caverna de Ortion, en la tormenta de arena de Chesedonia, en la ventisca al norte de Keterburg, en la isla tormentosa cerca de Gran Chokmah...</p>
+</div><div>
+	<h2>PROTEGIENDO ENGEVE</h2>
+	<label>Primera partida, objetos importantes</label>
+	<p>Después de acabar el Portal de la Absorción y cuando tengas a Natalia en el equipo, ve a Engeve y te explicarán que hay monstruos que acechan el pueblo. Acepta la misión de protegerlos y lucharás unas batallas consecutivas. Si vences, recibirás el dije de Rose.</p>
+</div><div>
+	<h2>EL CHICO DE LOS RECADOS DE CIUDAD DE YULIA</h2>
+	<label>Primera partida</label>
+	<p>¿Tienes ganas de ser buena persona? La primera vez que llegas a Ciudad de Yulia (con Asch) busca a un chico en la parte izquierda de la entrada que te pedirá tres geles de manzana. Más tarde, cuando Luke se corta el pelo, te pedirá cinco unidades de arroz. Si en ese momento no tienes, puedes esperarte a despejar el Cuartel General de los Caballeros del Oráculo, ir a comprar el arroz a Baticul y volver a Ciudad de Yulia por el manantial de Aramís (no esperes hasta que puedas llegar allí con el Albiore). Por último, cuando San Binah se hunda, te pedirá cinco mazas. Puedes encargarlas en la tienda de Din o comprarlas en las tiendas más tarde.</p>
+	<p>¿Y qué sacas tú de todo esto? Pues... parece ser que esto afecta a los precios de las tiendas... hace que bajen... y tal... (no estamos del todo seguros...). Al final, si cumples ciertas condiciones, Tear conseguirá un título (mira la sección "Títulos para todos").</p>
+</div><div>
+	<h2>ISLA DE NAM COBANDAI</h2>
+	<label>Primera partida, Isla de Nam Cobandai</label>
+	<p>Para entrar en este lugar, primero necesitas las dos piedras de vuelo del Albiore (la mayor y la refinada), el Fuego de Mieu 2 y el Vuelo de Mieu.</p>
+	<p>Para encontrar la isla en sí, ve a la caverna de Ortion. Desde allí, sigue la costa del continente hacia el norte hasta que llegues a un lugar con fuegos artificiales y tres grandes remolinos. Para entrar, desciende con el Albiore, ponte sobre el mar, apunta la proa a la entrada y da marcha atrás todo lo que puedas. Si consigues que se llene la barra podrás pasar a través de los remolinos.</p>
+	<p>Cosas que hacer en la isla de Nam Cobandai:</p>
+</div><div>
+	<h2>TÍTULO PARA ANISE: GATA GATA GATITA GATA</h2>
+	<label>Primera partida, Isla de Nam Cobandai, títulos, Anise</label>
+	<p>Parece que funciona aunque no hayas hecho la búsqueda del Antoleón de Chesedonia (aunque siempre va bien hacerla). Cuando llegues a la isla de Nam Cobandai, busca a los Antoleones, que están encima de un escenario. Habla con uno de ellos y habrá una escena. Paga lo que te pida y así obtendrás el traje de Anise.</p>
+</div><div>
+	<h2>ANTOLEóN: ¡EL RETORNO!</h2>
+	<label>Primera partida, Isla de Nam Cobandai, Antoleón, Anise</label>
+	<p>Ignora el título, es una estupidez. Para que esta búsqueda funcione, debes haber completado la búsqueda del Antoleón de Chesedonia.</p>
+	<p>En la isla encontrarás a dos Antoleones más. Habla con el que está detrás del mostrador y te pedirá 150.000 gald por una &ldquo;Bolsa de sorpresas&rdquo;. Recibirás los objetos que le distes al Antoleón de Chesedonia. Anise se enfadará mucho y recibirás también el muñeco de Antoleón.</p>
+</div><div>	
+	<h2>TÍTULO PARA NATALIA: ESTRELLA DE MALKUTH</h2>
+	<label>Primera partida, Isla de Nam Cobandai, títulos, Natalia</label>
+	<p>Cuando hayas entrado en la isla de Nam Cobandai, ve hacia la izquierda y busca a un chico vestido de vaca y te pedirá que busques a sus dos hermanos.</p>
+	<p>Primero ve a Ciudad de Yulia, entra en el edificio principal y dirígete a la habitación que hay bajo la sala de reuniones. Allí está uno de los hermanos, pero cuando hables con él, huirá</p>
+	<p>Luego ve al puerto de Baticul y allí encontrarás a otro. Habla con él.</p>
+	<p>Después, ve a Engeve, donde descubrirás que han secuestrado a la primera vaca que encontraste. Ve al Bosque de los Cheagles y rescátalo.</p>
+	<p>Cuando ya lo tengas, vuelve al puerto de Baticul a por el otro hermano.</p>
+	<p>Finalmente, lleva a los dos de vuelta a la isla de Nam Cobandai y, en agradecimiento, recibirás el título y el traje nuevos.</p>
+</div><div>	
+	<h2>LOS ALAS OSCURAS</h2>
+	<label>Primera partida, Isla de Nam Cobandai</label>
+	<p>Si has obtenido la Llave de la Oscuridad, podrás entrar en una habitación y saber más cosas sobre este grupo.</p>
+</div><div>
+	<h2>TÍTULOS: ABYSSMAN</h2>
+	<label>Primera partida, títulos</label>
+	<p>Estos trajes sólo los puedes conseguir la segunda vez que juegas.</p>
+	<p>Después de acabar el Portal de la Absorción y cuando tengas a Natalia en el equipo, ve a Gran Chokmah y ve a la habitación de Peony en el palacio. Antes de entrar en la habitación misma, donde tiene a sus cerdinejos, habla con la criada que está delante de la mesa y recibirás los disfraces de Abyssman, que se parecen misteriosamente a los de los Power Rangers.</p>
+</div><div>
+	<h2>LA CAVERNA DE ORTION, PARTE ESTE</h2>
+	<label>Primera partida</label>
+	<p>Para hacer esta búsqueda, necesitas el Fuego de Mieu 2 y la piedra de vuelo refinada.</p>
+	<p>Para llegar a este lugar, ve al este de la caverna de Ortion que conoces y verás una entrada bloqueada con un remolino. Atraviésalo con el Albiore a toda potencia sobre el mar.</p>
+	<p>Dale a la palanca para detener la cinta transportadora. Sigue y, en la siguiente parte, tendrás que hacer que el Fuego de Mieu se refleje en la piedra de la izquierda para detener la cinta. Cuando lo hayas conseguido, sigue y verás que el camino se divide a la izquierda. Ve por allí y usa el reflector para que el Fuego de Mieu ponga en marcha la grúa. Abre el cofre.</p>
+	<p>En la zona siguiente verás a un cheagle encerrado, pero podrás liberarlo dándole a la palanca con el Fuego de Mieu. Abre los dos cofres siguientes. Para liberar al próximo cheagle, tienes que reflejar el fuego en el cristal para que alcance la palanca. Sigue por el camino y ve liberando a los cheagles. Llegarás a un punto donde el camino se divide a la izquierda, pero ignóralo y sigue de frente. En frente verás un cheagle, pero aunque le des a la palanca, no podrá escapar. Ahora, ve por ese camino de la izquierda. Ponte en la antorcha de abajo a la derecha y en el ángulo correcto para que el Fuego de Mieu, al reflejarse, encienda todas las antorchas por el camino y, finalmente, toque una palanca. El cheagle escapará por el agujero, pero saldrán unos cuantos ogros réplica. Cuando los elimines, sal de la caverna y ve al Bosque de los Cheagles. Habla con el Patriarca y te dará una recompensa.</p>
+</div><div>
+	<h2>LOS CATALIZADORES &ndash; NEBILIM</h2>
+	<label>Primera partida, jefes opcionales</label>
+	<p>Hay seis catalizadores, uno para cada personaje. Recomiendo que los reúnas después de ver la última escena de Eldrant antes del enemigo final, para que las puedas conseguir de una pasada. Ten en cuenta que, durante la historia, consigues la de Luke (cuando vences a un monstruo enorme en las montañas de Meggiora), así que esta no la contaré.</p>
+	<p>Catalizador 1: Ve a la catedral de Daath y habla con Tritheim. Después, ve a Keterburg y habla con Nephry. Finalmente, dirígete a Gran Chokmah y habla con Peony en su habitación. Después de una escena, recibirás el primer catalizador.</p>
+	<p>Catalizador 2: Ve a San Binah y habla con el viejo McGovern. Después, ve a la posada y habla con su hijo. Sal del pueblo y verás al cerdinejo. Llévalo a la posada y te llevarás el segundo catalizador.&nbsp;</p>
+	<p>Catalizador 3: Entra en la catedral de Daath y verás a Florian corriendo. Tendrás que encontrarlo para llevarte el catalizador. Ve por la puerta de la derecha y utiliza el glifo fónico inferior derecho, que te llevará directamente al lugar donde está el niño.</p>
+	<p>Catalizador 4: Para conseguir este catalizador, necesitarás el Vuelo de Mieu y el Fuego de Mieu 2. En Eldrant, sube las escaleras donde has derrotado a Sync y entra en el edificio. Dentro de ese lugar, sube las escaleras y haz que Mieu escupa fuego a un orbe azul dentro de un diapasón que da vueltas (a partir de ahora, nos referiremos a estos mecanismos como &ldquo;orbes&rdquo; y punto). De esta manera, se abrirá un camino con un cofre dentro que contiene un núcleo de capacidad muy muy (pero que muy) bueno.</p>
+	<p>Sal de ahí y, en la pared norte, haz girar el reflector para que Mieu pueda escupir Fuego, y así se abrirá una puerta.</p>
+	<p>Sube las escaleras otra vez y ve hacia la izquierda. Sigue por la izquierda hasta que des con unas escaleras de pared. Utiliza el Vuelo de Mieu para tocar el orbe y conseguir un gel especial.</p>
+	<p>Baja por la escalera de pared y golpea el pilar que hay cerca de la escalera por el lado derecho. Ve hacia el otro pilar y golpéalo para que caiga mirando en la dirección del pilar que acabas de tirar (o sea, que caiga hacia el fondo de la habitación). Ahora, ve por la puerta del fondo.</p>
+	<p>Aquí verás dos enemigos, los guardianes. Lo más sencillo es luchar contra ellos como Tear (e intentando que los demás no incordien), ya que a uno deberás derrotarlo con ataques de luz (Lanzas sacras) y a otro con ataques de sombra (Pesadilla), para así obtener una piedra fónica de luz y una piedra fónica de sombra.</p>
+	<p>Cuando lo hayas hecho, acércate a la gran piedra fónica púrpura y usa la piedra fónica de luz que has obtenido. Cuando hagas esto, la habitación se girará.</p>
+	<p>Ve hacia la puerta y sube por el pilar que has tirado antes y sube por la escalera de pared. Ahora, emplea el Vuelo de Mieu para llegar al orbe. Sube por el otro pilar y ve por la larga escalera de pared. Pisa el cuadrado extraño que hay en el suelo y la habitación volverá a su posición original. Ve hacia el sur, abre el cofre y obtendrás una espada fónica.</p>
+	<p>Vuelve a pisar el cuadrado y sube otra vez por la escalera de pared del fondo, ya que habrá un cofre con unos guantes fónicos. Vuelve a donde estaba la gran piedra fónica y esta vez utiliza la piedra fónica de sombra.</p>
+	<p>Cuando la habitación haya rodado, ve y cambia de posición los dos reflectores de manera que se encaren mutuamente. Pisa el cuadrado, sube las escaleras y, en el pasillo donde hay dos orbes, haz que Mieu escupa fuego hacia los reflectores que acabas de mover.</p>
+	<p>Hazlo desde el centro, entre un orbe y el otro, porque así cuando el fuego haya tocado el primero (de manera que se activan los dos), podrás usar el Vuelo de Mieu para detener la llama y evitar que apague el segundo orbe.</p>
+	<p>Cuando hayas conseguido esto, verás que se habrá abierto una puerta nueva. Crúzala y llegarás a la tumba de Yulia, donde encontrarás el catalizador.</p>
+	<p>Catalizador 5: Para conseguir este catalizador, necesitarás el Vuelo de Mieu y el Fuego de Mieu 2. Ve a la fábrica abandonada de Baticul. Sube por la escalera que queda más a la derecha y luego por la siguiente. Dirígete un poco a la derecha y usa el Vuelo de Mieu para alcanzar la escalera. Ve por las cañerías y usa el Fuego de Mieu para darle al botón del otro lado. Ahora, sal de la fábrica y, justo detrás del aerocoche del que sales, habrá otro igual. Entra de nuevo en la fábrica con este aerocoche, sube las escaleras y abre los dos cofres, ya que uno de ellos tendrá un catalizador.</p>
+	<p>Después de obtener todos los catalizadores, asegúrate que no tienes ninguno equipado. Si quieres conseguir el título de Líder táctico de Luke, asegúrate de poner el nivel de dificultad en muy difícil o en desconocido, porque si vences en un nivel más bajo, no lo obtendrás. Cuando estés listo, dirígete al noroeste de Keterburg, donde está la tormenta de nieve. Por ahí deberías ver una montaña con una grieta enorme que la parte en dos. Ahí es a donde vamos. Asegúrate de tener pomos de vida y geles y de guardar la partida antes de entrar pues, después de la escena, llega la batalla.</p>
+	<p><b>NEBILIM</b>: (HP: 320.000)</p>
+	<p>Este HP será el que Nebilim tenga si juegas en modo normal. Si estás en muy difícil o desconocido, su vida será de 640.000 o incluso más. Dejando de lado el nivel de dificultad, ella es el jefe más poderoso del juego. Nebilim tiene un poderoso arsenal de hechizos y habilidades que duelen. MUCHO. Si tus personajes no tienen suficiente nivel, seguramente te pegará la paliza de tu vida.</p>
+	<p>Sus artes son bastante fáciles de esquivar, pero tus compañeros son demasiado tontos como para hacerlo, así que te verás usando muchos pomos de vida y geles de limón en esta batalla.</p>
+	<p>Intenta concentrar tu ataque cuando ella esté lanzando un conjuro. Verás que muchos de sus ataques son como los de Jade, así que intenta corretear lejos de tus compañeros, ya que si tienes la suerte de que el conjuro iba dirigido contra ti, tú lo podrás esquivar fácilmente y no afectará a tus aliados.</p>
+	<p>Intenta tener el HP siempre bien alto, ya que no podrás evitar sus artes místicas y puede que acaben contigo de un plumazo.</p>
+	<p>En esta batalla, no dudes en usar tus mejores objetos curativos, como los específicos o las delicias.</p>
+	<p>Después de la batalla, ve a Gran Chokmah a informar a Peony. Si has luchado en modo muy difícil o deconocido, sigue y ve a Daath a hablar con Tritheim, y luego a Baticul a hablar con Pere. Así obtendrás el título de Líder táctico.</p>
+</div><div>
+	<h2>TÍTULO PARA GUY: ESTRATEGA SIGMUNDESCO</h2>
+	<label>Primera partida, títulos, Guy</label>
+	<p>Para recibir este título, debes haber luchado más de 300 batallas y haber visto toda las lecciones del señor Miyagi. Él te dará este título.</p>
+</div><div>	
+	<h2>LA FARMACIA DE SAN BINAH</h2>
+	<label>Primera partida</label>
+	<p>Cuando entras por primera vez a San Binah, ve a la parte derecha de la ciudad y entra en la tienda de medicinas para hablar con el hombre que hay en el lado izquierdo. Dale lo que te ha pedido (que puedes encontrar en los puntos de búsqueda 1 y  4) y él te dará otro objeto a cambio. Así, se abrirá otra farmacia en San Binah y los precios de estos productos bajarán un 20%.</p>
+</div><div>		
+	<h2>EL COLGANTE DE TEAR</h2>
+	<label>Primera partida, Tear, objetos importantes</label>
+	<p>Esta sidequest merece mucho la pena, porque ese accesorio aumenta el ataque y la defensa fónica de Tear un 20%.</p>
+	<p>Cuando llegas por primera vez a Chesedonia y antes de ir a la mansión de Astor, ve a buscar al cochero al que le vendiste el colgante, que está en la parte norte de la ciudad.</p>
+	<p>Te enterarás de que lo vendió en Gran Chokmah. Más adelante, cuando ya hayas hecho descender Chesedonia, habla con el cochero otra vez, que estará en el mismo sitio de antes, y te dirá a quién le vendió el objeto. Ve ahora a Gran Chokmah, al centro comercial, busca a Raiz y cómprale el colgante de Tear por 100.000 gald (no se puede negociar).</p>
+</div><div>
+	<h2>ESCENAS SOBRE JADE</h2>
+	<label>Primera partida, Jade</label>
+	<p><em>Escena 1:</em> Cuando le has entregado la carta al rey Ingobert, y antes de ir a la fábrica abandonada, ve al puerto para ver una escena sobre Jade y su lanza.</p>
+	<p><em>Escena 2:</em> Cuando Natalia haya vuelto con el equipo después del Portal de la Absorción, ve a Sheridan y habla con el cheagle que hay en la sala de reuniones.</p>
+	<p><em>Escena 3:</em> Después de haber estado en Eldrant, ve al laboratorio de Belkend y entra en la habitación que hay en frente de la del doctor.</p>
+	<p><em>Escena 4:</em> Examina la puerta que hay delante del cuartel general de Gran Chokmah.</p>
+</div><div>
+	<h2>LABORATORIO DE RÉPLICAS, THE ABYSS</h2>
+	<label>Segunda partida, jefes opcionales</label>
+	<p>Para hacer esta búsqueda, tienes que haber:</p>
+	<ul>
+		<li>Conseguido el Vuelo de Mieu.</li>
+		<li>Conseguido el Fuego de Mieu 2.</li>
+		<li>Salvado a Shiba en 	el Manantial de Aramís.</li>
+		<li>Completado la parte 	este de la caverna de Ortion.</li>
+	</ul>
+	<p>Además, debe ser la tu segunda partida, tendrás que haber visto la escena justo antes del último enemigo en Eldrant y necesitarás MUCHO dinero.</p>
+	<p>Para empezar con esta búsqueda, ve a al norte de Sheridan y habla con los dos hombres que hay junto a una escalera. Te dirán algo de Shiba y entonces deberás ir a la sala de reuniones para hablar con él. Él te dará la oportunidad de que te prepares y, cuando estés listo, habla de nuevo con él e irás automáticamente a la caverna de Ortion. Shiba te irá abriendo el camino hacia el laboratorio.</p>
+	<p>El laboratorio es un laberinto enorme, y tendrás que pagar a Shiba para que excave. Por defecto son 10.000 gald, pero puedes cambiar esto si hablas con él en el mapa. La barra azul en la parte superior de la pantalla es la vitalidad de Shiba. Si te ves metido en un encuentro aleatorio, la barra bajará. La única manera de rellenarla es encontrando uno de los tres manantiales que hay en la zona, o saliendo de la caverna del todo (para salir, habla con Shiba).</p>
+	<p>Para poder avanzar, tienes que destruir todas las máquinas de réplicas con las que te cruces. Por cierto, los pájaros que hay encima de las máquinas dan mucho gald, así que asegúrate de luchar contra ellos. Equipa a un personaje con la séfira y a otro con la séfira azul y, para entrar en batalla contra los pájaros, haz que Mieu escupa fuego en los cristales para asustarlos.</p>
+	<p>En la parte inferior de la pantalla tendrás un mapa para usarlo como guía. Puedes ver las máquinas de réplicas que has destruido y las que aún te faltan en la parte superior izquierda. A media que te adentres por la caverna, te encontrarás con caras conocidas.</p>
+	<p><b>RÉPLICA DE ARIETTA</b>: (HP: 45.000)</p>
+	<p><b>RÉPLICA DE LARGO</b>: (HP: 65.000)</p>
+	<p><b>RÉPLICA DE SYNC</b>: (HP: 55.000)</p>
+	<p><b>RÉPLICA DE LEGRETTA</b>:  (HP: 50.000)</p>
+	<p>Legretta no estará en la batalla en un el principio. Cuando uno de los tres esté fuera de combate, ella entrará a luchar. Ya sabes que los combos de Arietta y de Sync pueden ser problemáticos, así que lo mejor es concentrar tus ataques en ellos dos primero. Recomendaría dar prioridad a Sync, ya que utiliza muchísimo sus artes arcanas. Arietta no debería suponer ningún problema ya que es fácil esquivar sus hechizos. Cuando caiga una de las réplicas, prepárate para recibir a Legretta. Utiliza las mismas estrategias que cuando luchaste con ellos la última vez y todo debería ir bien.</p>
+	<p><b>REPLICANTIS</b>: (HP: 250.000)</p>
+	<p>El estilo de lucha de este jefe es el mismo que el de Fyr Bronc, lo que significa que es lento y que sus ataques son fáciles de esquivar. Sin embargo, lo más peligroso de este jefe es su habilidad para hacer hechizos muy fuertes como Sable divino y Reserva de meteoritos. Y para colmo, es bastante difícil darle si no está preparándose para hacer magia, así que cuando veas que va a lanzarte un hechizo, intenta darle todo lo que puedas. Por otra parte, sus ataques son sencillos de esquivar, pero te llevará un rato acabar con él ya que tiene mucha defensa.</p>
+	<p>Después de la batalla, saldrás de la mazmorra automáticamente. Podrás volver a entrar cuando quieras pero, claro, no volverás a luchar contra los jefes.</p>
+</div><div>
+	<h2>Recetas, con dos cojones</h2>
+	<label>Primera partida, recetas</label>
+	<ul>
+		<li><strong>Bola de arroz</strong> – La obtienes si le dices al cochero que quieres ir andando hasta Engeve. Tear te enseñará a cocinar.</li>
+		<li><strong>Espaguetis</strong> – En la parte izquierda de Engeve hay una casa en cuyo interior hay una chica cocinando. Te pedirá que vayas a buscarle miso. Tráeselo y te dará la receta de los espaguetis.</li>
+		<li><strong>Sandwich</strong> – Entra en la parte derecha de San Binah y entra en la primera casa de la izquierda. Encontrarás la receta encima de la mesa.</li>
+		<li><strong>Pollo frito</strong> – Realiza la primera sidequest de Antoleón.</li>
+		<li><strong>Arroz frito</strong> – Después de haber estado en la fábrica abandonada, vuelve a Baticul en cualquier momento y quédate a dormir en la posada. Allí recibirás la receta.</li>
+		<li><strong>Ramen</strong> – Ve al piso que hay debajo de la habitación de Tear. La receta está encima de la mesa.</li>
+		<li><strong>Fideos de soba</strong> – Cuando vas a Belkend, ve donde está la maquina que da vueltas, justo antes de entrar en el laboratorio. Verás que, a la derecha, puedes pasar bajo la pasarela. Allí recibirás la receta.</li>
+		<li><strong>Pizza</strong> – Cuando visitas Daath por primera vez, habla con el cocinero que hay detrás de la barra, cerca de la posada, y él te dará la receta.</li>
+		<li><strong>Ensalada</strong> – Ve al puerto de Keterburg y entra en la única casa que puedes entrar. La receta está encima de la silla.</li>
+		<li><strong>Curry</strong> – Cuando Jade se haya unido a tu equipo después de estar en Gran Chokmah, habla con el chico que hay detrás de la barra del bar del primer piso. Él te dará la receta.</li>
+		<li><strong>Tarta</strong> – Cuando hayas derrotado al unicero, ve al campo de flores que hay en el Valle de Tataroo y recibirás la receta.</li>
+		<li><strong>Cuenco de arroz</strong> – Cuando Asch te haya dado el libro en Belkend, vuelve al laboratorio, a la oficina de Van. Examina la estantería y encontrarás la receta.</li>
+		<li><strong>Sushi</strong> – Ve a la biblioteca que hay en la catedral de Daath. La receta está en la mesa redonda que hay al norte de la biblioteca.</li>
+		<li><strong>Fideos de udon</strong> – Ve al bar de Sheridan. La receta está en la barra.</li>
+		<li><strong>Tostada</strong> – Completa el minijuego del laberinto de Keterburg.</li>
+		<li><strong>Sopa de cebolla</strong> – Entra en San Binah cuando ya ha caído y busca la receta dentro de la posada, entre las dos camas.</li>
+		<li><strong>Gratinado</strong> – Acaba la última sidequest de Antoleón.</li>
+		<li><strong>Macedonia</strong> – Completa el minijuego de la camarera la segunda vez.</li>
+		<li><strong>Estofado</strong> – Si tienes el cuchillo multiusos (que lo puedes encontrar en un punto de búsqueda cerca de Gran Chokmah), ve a hablar con Florian.</li>
+		<li><strong>Guiso de miso</strong> – Cuando dejes a Florian en Daath, ve a Baticul y habla con Ramdas. Después de una escena, recibirás la receta.</li>
+	</ul>
+</div>
+</div>
+<div id="sidequestsVoid" style="display:none;">
+<h2>Aviso</h2>
+<p>No se ha seleccionado ninguna sidequest.</p>
+</div>
+</div>
+<script>
+function $(id) { return document.getElementById(id); }
+
+var articles = [];
+var labelshas = {};
+
+var label_list = [
+	['Partidas', ['Primera partida', 'Segunda partida']],
+	['Personajes', ['Tear', 'Jade', 'Luke', 'Guy', 'Anise', 'Natalia']],
+	['Artes', ['artes arcanas', 'artes fónicos']],
+	['Otros', ['objetos importantes', 'Mieu', 'Antoleón', 'spa', 'Albiore', 'títulos', 'jefes opcionales', 'Isla de Nam Cobandai', 'recetas']]
+];
+
+var label_list_list = [];
+
+function processLabel(div) {
+	var cc = div.childNodes;
+	var h2, label, labelhas = {}, counts = 0;
+	for (var n = 0; n < cc.length; n++) { var c = cc[n];
+		switch (c.localName) {
+			case 'H2': case 'h2':
+				h2 = c.innerHTML;
+				counts++;
+			break;
+			case 'LABEL':
+				label = c.innerHTML.split(',');
+				for (var m = 0; m < label.length; m++) {
+					label[m] = label[m].replace(/^\s+/gi, '').replace(/\s+$/gi, '');
+					labelshas[label[m]] = null;
+					labelhas[label[m]] = true;
+				}
+				counts++;
+			break;
+		}
+	}
+	if (counts != 2) alert('Error con sidequest: ' + h2);
+	articles.push([div, h2, label, labelhas]);
+}
+
+function updateArticles() {
+	var some = false, all = true;
+	for (var n = 0; n < articles.length; n++) { var article = articles[n];
+		var show = checkLabel(article);
+		article[0].style.display = show ? 'block' : 'none';
+		some |= show;
+		all &= show;
+	}
+	$('sidequestsVoid').style.display = some ? 'none' : 'block';
+	$('warning').style.display = all ? 'block' : 'none';
+}
+
+function processLabels() {
+	var sq = $('sidequests').childNodes;
+	for (var n = 0; n < sq.length; n++) {
+		if (sq[n].localName == 'DIV') processLabel(sq[n]);
+	}
+	var labelsss = [];
+	for (var l in labelshas) labelsss.push(l);
+	//alert(labelsss);
+}
+
+function checkLabel(article) {
+	var pos = 0;
+	
+	if ($('search')) {
+		var search = $('search').value.replace(/^\s+/, '').replace(/\s+$/, '');
+		
+		if (search.length) {
+			var srex = new RegExp(search, 'gi');
+			//if (search == "gata") alert(article[1]);
+			if (article[1].search(srex) == -1) return false;
+		}
+	}	
+	
+	// articles.push([div, h2, label, labelhas]);
+	var r1 = undefined;
+	for (var n = 0; n < label_list.length; n++) { var ll = label_list[n];
+		var r2 = undefined;
+		
+		for (var m = 0; m < ll[1].length; m++, pos++) {
+			var o = $('filter' + pos);
+			
+			if (!o.checked) continue;
+			
+			var t = ll[1][m];
+			if (r2 === undefined) r2 = false;
+			r2 |= article[3][t] ? true : false;
+		}
+
+		//alert(r2);
+		
+		if (r2 !== undefined) {
+			if (r1 === undefined) r1 = true;
+			r1 &= r2;
+			//alert(r1 + '; ' + r2);
+			if (!r1) break;
+		}
+	}
+	
+	//alert(r1);
+	if (r1 === undefined) return true;
+	return r1;
+}
+
+function doClick(e) { if (!e && window.event) e = window.event;
+	if (!e.currentTarget) e.currentTarget = target;
+	
+	if (e.ctrlKey || e.altKey) {
+		for (var n = 0; n < label_list_list.length; n++) { var o = $('filter' + n);
+			o.checked = (o == e.currentTarget);
+		}
+	}
+}
+
+function labelInit() {
+	processLabels();
+
+	var filh = '';
+
+	label_list_list = [];
+	filh += '<h2>Búsqueda (títulos)</h2>';
+	filh += '<div><input type="text" id="search" /></div>';
+	
+	for (var n = 0; n < label_list.length; n++) { var ll = label_list[n];
+		filh += '<h2 style="margin-top: 10px;">' + ll[0] + '</h2>';
+		for (var m = 0; m < ll[1].length; m++) {
+			filh += '<div><input type="checkbox" id="filter' + label_list_list.length + '" onchange="updateArticles();" onclick="doClick(event);" name="' + ll[1][m] + '" /><label for="filter' + label_list_list.length + '">' + ll[1][m] + '</label></div>';
+			label_list_list.push(ll[1][m]);
+		}
+	}
+	
+	$('filter').innerHTML = filh;
+
+	updateArticles();
+}
+
+labelInit();
+
+var lastSearch = '';
+setInterval(function() {
+	var search = $('search').value;
+	if (lastSearch == search) return; else lastSearch = search;
+	updateArticles();
+}, 200);
+
+</script>

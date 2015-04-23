@@ -1,0 +1,3903 @@
+Array
+(
+    [luke] => Array
+        (
+            [0] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 1
+                                    [1] => Fang Blade
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Lightning Tiger Blade
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 1
+                                    [1] => Colmillo cortante
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Tigre relámpago
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 4
+                                    [1] => Havoc Strike
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Burning Havoc
+                                    [1] => Fire FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 4
+                                    [1] => Golpe caótico
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Caos ardiente
+                                    [1] => CdF de fuego
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 8
+                                    [1] => Raging Blast
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Frigid Blast
+                                    [1] => Water FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 8
+                                    [1] => Furia explosiva
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Glaciar explosivo
+                                    [1] => CdF de agua
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 12
+                                    [1] => Steel
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Coil
+                                    [1] => Fire FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 12
+                                    [1] => Acero
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Espiral
+                                    [1] => CdF de fuego
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 15
+                                    [1] => Fang Blade Havoc
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 15
+                                    [1] => Colmillo caótico
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 18
+                                    [1] => Fang Blade Rage
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 18
+                                    [1] => Colmillo explosivo
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 21
+                                    [1] => Guardian
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 21
+                                    [1] => Guardián
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 24
+                                    [1] => Raging Havoc
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 24
+                                    [1] => Caos explosivo
+                                )
+
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 28
+                                    [1] => Rending Thrust
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Rending Quake
+                                    [1] => Earth FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 28
+                                    [1] => Golpe desgarrador
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Seísmo desgarrador
+                                    [1] => CdF de tierra
+                                )
+
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 32
+                                    [1] => Guardian Field
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Guardian Frost
+                                    [1] => Water FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 32
+                                    [1] => Campo guardián
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Hielo guardián
+                                    [1] => CdF de agua
+                                )
+
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 35
+                                    [1] => Rending Fang Blade
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 35
+                                    [1] => Colmillo desgarrador
+                                )
+
+                        )
+
+                )
+
+            [11] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 38
+                                    [1] => Rending Havoc
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 38
+                                    [1] => Caos desgarrador
+                                )
+
+                        )
+
+                )
+
+            [12] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 41
+                                    [1] => Rending Blast
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 41
+                                    [1] => Furia desgarradora
+                                )
+
+                        )
+
+                )
+
+            [13] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 45
+                                    [1] => Light Spear Cannon
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Light Blast
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 45
+                                    [1] => Cañón de luz
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Ráfaga de luz
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [14] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 49
+                                    [1] => Devil's Inferno
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Devil's Maw
+                                    [1] => Earth FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 49
+                                    [1] => Infierno del diablo
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Fauces del diablo
+                                    [1] => CdF de tierra
+                                )
+
+                        )
+
+                )
+
+            [15] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 53
+                                    [1] => Swallow Fury
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Shadow Fury
+                                    [1] => Fire FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 53
+                                    [1] => Furia divina
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Furia oscura
+                                    [1] => CdF de fuego
+                                )
+
+                        )
+
+                )
+
+            [16] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Unlock
+                                    [1] => Sonic Thrust
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => A desbloquear
+                                    [1] => Golpe sónico
+                                )
+
+                        )
+
+                )
+
+            [17] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Unlock
+                                    [1] => Demon Fist
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => A desbloquear
+                                    [1] => Puño demoníaco
+                                )
+
+                        )
+
+                )
+
+            [18] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Unlock
+                                    [1] => Lightning Blade
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => A desbloquear
+                                    [1] => Espada relámpago
+                                )
+
+                        )
+
+                )
+
+            [19] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Unlock
+                                    [1] => Slag Assault
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => A desbloquear
+                                    [1] => Asalto
+                                )
+
+                        )
+
+                )
+
+            [20] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Unlock
+                                    [1] => Sonic Blast
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => A desbloquear
+                                    [1] => Estallido sónico
+                                )
+
+                        )
+
+                )
+
+            [21] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Mystic
+                                    [1] => Radiant Howl
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Arte místico
+                                    [1] => Aullido radiante
+                                )
+
+                        )
+
+                )
+
+            [22] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Mystic
+                                    [1] => Ion
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 2nd playthrough
+                                    [1] => 
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Arte místico
+                                    [1] => Ion
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 2ª partida
+                                    [1] => 
+                                )
+
+                        )
+
+                )
+
+            [23] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Mystic
+                                    [1] => Lost Fon Drive
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 2nd playthrough
+                                    [1] => 
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Arte místico
+                                    [1] => Impulso fónico perdido
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 2ª partida
+                                    [1] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [tear] => Array
+        (
+            [0] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 1
+                                    [1] => First Aid
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Meditation
+                                    [1] => Water FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 1
+                                    [1] => Primeros auxilios
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Meditación
+                                    [1] => CdF de agua
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 1
+                                    [1] => Nightmare
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 1
+                                    [1] => Pesadilla
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 5
+                                    [1] => Pow Hammer
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Frozen Hammer
+                                    [1] => Water FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 5
+                                    [1] => Martillo
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Martillo glacial
+                                    [1] => CdF de agua
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 9
+                                    [1] => Invoke Ground
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 9
+                                    [1] => Invocar tierra
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 10
+                                    [1] => Invoke Aqua
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 10
+                                    [1] => Invocar agua
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 11
+                                    [1] => Invoke Flame
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 11
+                                    [1] => Invocar llama
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 12
+                                    [1] => Invoke Gale
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 12
+                                    [1] => Invocar vendaval
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 13
+                                    [1] => Nocturnal Light
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Inlay Nocturne
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 13
+                                    [1] => Luz nocturna
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Incrustación nocturna
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 16
+                                    [1] => Charge
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Tribute
+                                    [1] => Earth FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 16
+                                    [1] => Cargar
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Tributo
+                                    [1] => CdF de tierra
+                                )
+
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 20
+                                    [1] => Healing Circle
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Fairy Circle
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 20
+                                    [1] => Círculo curativo
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Círculo de hadas
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 27
+                                    [1] => Resurrection
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Regenerate
+                                    [1] => Water FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 27
+                                    [1] => Resurrección
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Regenerar
+                                    [1] => CdF de agua
+                                )
+
+                        )
+
+                )
+
+            [11] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 31
+                                    [1] => Severed Fate
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Fatal Circle
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 31
+                                    [1] => Destino truncado
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Círculo fatal
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [12] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 31
+                                    [1] => Eclair de Larmes
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Flamme Rouge
+                                    [1] => Fire FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 31
+                                    [1] => Éclair de larmes
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Flamme rouge
+                                    [1] => CdF de fuego
+                                )
+
+                        )
+
+                )
+
+            [13] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 37
+                                    [1] => Enhance Cast
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Witchcraft
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 37
+                                    [1] => Mejorar conjuro
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Brujería
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [14] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 40
+                                    [1] => Banishing Sorrow
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Searing Sorrow
+                                    [1] => Fire FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 40
+                                    [1] => Pena proscrita
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Pena ardiente
+                                    [1] => CdF de fuego
+                                )
+
+                        )
+
+                )
+
+            [15] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 44
+                                    [1] => Revitalize
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 44
+                                    [1] => Revitalizar
+                                )
+
+                        )
+
+                )
+
+            [16] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 48
+                                    [1] => Holy Lance
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Cluster Raid
+                                    [1] => Earth FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 48
+                                    [1] => Lanzas sacras
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Grupo de asalto
+                                    [1] => CdF de tierra
+                                )
+
+                        )
+
+                )
+
+            [17] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 58
+                                    [1] => Grand Cross
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 58
+                                    [1] => Cruz ingente
+                                )
+
+                        )
+
+                )
+
+            [18] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Unlock
+                                    [1] => Force Field
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => A desbloquear
+                                    [1] => Campo de fuerza
+                                )
+
+                        )
+
+                )
+
+            [19] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Unlock
+                                    [1] => Holy Song
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => A desbloquear
+                                    [1] => Canción sacra
+                                )
+
+                        )
+
+                )
+
+            [20] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Unlock
+                                    [1] => Judgment
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => A desbloquear
+                                    [1] => Juicio
+                                )
+
+                        )
+
+                )
+
+            [21] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Mystic
+                                    [1] => Innocent Shine
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Arte místico
+                                    [1] => Resplandor inocente
+                                )
+
+                        )
+
+                )
+
+            [22] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Mystic
+                                    [1] => Fortune's Arc
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 2nd playthrough, all fonic hymns 50 times
+                                    [1] => 
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Arte místico
+                                    [1] => Arco de la fortuna
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 2ª partida
+                                    [1] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [jade] => Array
+        (
+            [0] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 1
+                                    [1] => Sonic Spear
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Crushing Spear
+                                    [1] => Earth FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 1
+                                    [1] => Lanza sónica
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Lanza aplastante
+                                    [1] => CdF de tierra
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 1
+                                    [1] => Energy Blast
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Photon
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 1
+                                    [1] => Explosión de energía
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Fotón
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 9
+                                    [1] => Stalagmite
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Eruption
+                                    [1] => Fire FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 9
+                                    [1] => Estalagmita
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Erupción
+                                    [1] => CdF de fuego
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 14
+                                    [1] => Splash
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Icicle Rain
+                                    [1] => Earth FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 14
+                                    [1] => Salpicadura
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Carámbanos
+                                    [1] => CdF de tierra
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 17
+                                    [1] => Thunder Lance
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Lightning Tempest
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 17
+                                    [1] => Lanza del trueno
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Tormenta eléctrica
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 23
+                                    [1] => Turbulence
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Flare Tornado
+                                    [1] => Fire FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 23
+                                    [1] => Turbulencia
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Tornado ardiente
+                                    [1] => CdF de fuego
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 28
+                                    [1] => Flame Burst
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Explosion
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 28
+                                    [1] => Llama explosiva
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Explosión
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 32
+                                    [1] => Impaling Heaven
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Goring Hell
+                                    [1] => Fire FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 32
+                                    [1] => Empalamiento celestial
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Cuerno infernal
+                                    [1] => CdF de fuego
+                                )
+
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 36
+                                    [1] => Ground Dasher
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Frigid Coffin
+                                    [1] => Water FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 36
+                                    [1] => Terremoto
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Ataúd glacial
+                                    [1] => CdF de agua
+                                )
+
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 40
+                                    [1] => Blessed Drops
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Divine Saber
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 40
+                                    [1] => Gotas benditas
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Sable divino
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 44
+                                    [1] => Sovereign Gale
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Mighty Deluge
+                                    [1] => Water FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 44
+                                    [1] => Vendaval imperial
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Diluvio universal
+                                    [1] => CdF de agua
+                                )
+
+                        )
+
+                )
+
+            [11] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 48
+                                    [1] => Thunder Blade
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Gravity Well
+                                    [1] => Earth FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 48
+                                    [1] => Espada del trueno
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Pozo gravitatorio
+                                    [1] => CdF de tierra
+                                )
+
+                        )
+
+                )
+
+            [12] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 52
+                                    [1] => Infernal Prison
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Raging Mist
+                                    [1] => Water FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 52
+                                    [1] => Prisión infernal
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Niebla ardiente
+                                    [1] => CdF de agua
+                                )
+
+                        )
+
+                )
+
+            [13] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Unlock
+                                    [1] => Absolute
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => A desbloquear
+                                    [1] => Absoluto
+                                )
+
+                        )
+
+                )
+
+            [14] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Unlock
+                                    [1] => Prism Sword
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => A desbloquear
+                                    [1] => Prisma de espadas
+                                )
+
+                        )
+
+                )
+
+            [15] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Unlock
+                                    [1] => Meteor Storm
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => A desbloquear
+                                    [1] => Meteoritos
+                                )
+
+                        )
+
+                )
+
+            [16] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Mystic
+                                    [1] => Mystic Cage
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Arte místico
+                                    [1] => Jaula mística
+                                )
+
+                        )
+
+                )
+
+            [17] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Mystic
+                                    [1] => Indignation
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 2nd playthrough
+                                    [1] => 
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Arte místico
+                                    [1] => Indignación
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 2ª partida
+                                    [1] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [guy] => Array
+        (
+            [0] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 1
+                                    [1] => Demon Fang
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Infernal Torrent
+                                    [1] => Fire FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 1
+                                    [1] => Colmillo demoníaco
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Torrente infernal
+                                    [1] => CdF de fuego
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 9
+                                    [1] => Crescent Strike
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Frigid Moon
+                                    [1] => Water FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 9
+                                    [1] => Tajo creciente
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Luna glacial
+                                    [1] => CdF de agua
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 12
+                                    [1] => Void Tempest
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Dragon Tempest
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 12
+                                    [1] => Vacío tempestuoso
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Tormenta de dragón
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 15
+                                    [1] => Center
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Focus
+                                    [1] => Earth FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 15
+                                    [1] => Centrar
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Concentración
+                                    [1] => CdF de tierra
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 18
+                                    [1] => Moonlight Demon
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 18
+                                    [1] => Demonio lunar
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 21
+                                    [1] => Guardian
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 21
+                                    [1] => Guardián
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 24
+                                    [1] => Demonic Void
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 24
+                                    [1] => Vacío demoníaco
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 27
+                                    [1] => Tiger Blade
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Wyrm Wrath
+                                    [1] => Earth FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 27
+                                    [1] => Tajo del tigre
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Furia de Wyrm
+                                    [1] => CdF de tierra
+                                )
+
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 30
+                                    [1] => Demonic Tiger Blade
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 30
+                                    [1] => Tigre demoníaco
+                                )
+
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 33
+                                    [1] => Beast
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Thunder Beast
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 33
+                                    [1] => Bestia
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Bestia del trueno
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 36
+                                    [1] => Moonlight Tempest
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 36
+                                    [1] => Tempestad lunar
+                                )
+
+                        )
+
+                )
+
+            [11] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 40
+                                    [1] => White Tiger Strike
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 40
+                                    [1] => Tajo del tigre blanco
+                                )
+
+                        )
+
+                )
+
+            [12] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 44
+                                    [1] => Severing Wind
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Searing Gale
+                                    [1] => Fire FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 44
+                                    [1] => Viento cortante
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Vendaval candente
+                                    [1] => CdF de fuego
+                                )
+
+                        )
+
+                )
+
+            [13] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 48
+                                    [1] => Nihil Blade Tempest
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 48
+                                    [1] => Tempestad nihilista
+                                )
+
+                        )
+
+                )
+
+            [14] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 52
+                                    [1] => Sword Rain: Alpha
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Eternal Quake
+                                    [1] => Earth FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 52
+                                    [1] => Lluvia alfa
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Seísmo eterno
+                                    [1] => CdF de tierra
+                                )
+
+                        )
+
+                )
+
+            [15] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 58
+                                    [1] => Final Cross
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Final Glacier
+                                    [1] => Water FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 58
+                                    [1] => Cruz final
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Glaciar final
+                                    [1] => CdF de agua
+                                )
+
+                        )
+
+                )
+
+            [16] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Unlock
+                                    [1] => Tempest
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => A desbloquear
+                                    [1] => Tempestad
+                                )
+
+                        )
+
+                )
+
+            [17] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Unlock
+                                    [1] => Soaring Light Spear
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => A desbloquear
+                                    [1] => Lanza voladora
+                                )
+
+                        )
+
+                )
+
+            [18] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Mystic
+                                    [1] => Razing Phoenix
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Arte místico
+                                    [1] => Fénix devastador
+                                )
+
+                        )
+
+                )
+
+            [19] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Mystic
+                                    [1] => Brilliant Overlord
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 2nd playthrough
+                                    [1] => 
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Arte místico
+                                    [1] => Noble ilustre
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 2ª partida
+                                    [1] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [anise] => Array
+        (
+            [0] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 1
+                                    [1] => Dragon Surge
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Stone Dragon Ascent
+                                    [1] => Earth FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 1
+                                    [1] => Ola de dragón
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Ascensión de dragón
+                                    [1] => CdF de tierra
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 1
+                                    [1] => Limited
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Spark Wave
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 1
+                                    [1] => Limitado
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Onda chispeante
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 8
+                                    [1] => Dual Punishment
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Lightning Punishment
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 8
+                                    [1] => Castigo doble
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Castigo eléctrico
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 11
+                                    [1] => Eagle Dive
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Frigid Raptor
+                                    [1] => Water FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 11
+                                    [1] => Picado de águila
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Ave glacial
+                                    [1] => CdF de agua
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 15
+                                    [1] => Dual Dragon Surge
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 15
+                                    [1] => Castigo de dragón
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 18
+                                    [1] => Shadow Raid
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Fire Dragon Blast
+                                    [1] => Fire FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 18
+                                    [1] => Asalto oscuro
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Fuego del dragón
+                                    [1] => CdF de fuego
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 21
+                                    [1] => Negative Gate
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Crimson Riot
+                                    [1] => Fire FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 21
+                                    [1] => Portal negativo
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Disturbio carmesí
+                                    [1] => CdF de fuego
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 26
+                                    [1] => Mighty Charge
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Mighty Circuit
+                                    [1] => Earth FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 26
+                                    [1] => Carga poderosa
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Circuito poderoso
+                                    [1] => CdF de tierra
+                                )
+
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 26
+                                    [1] => Shadow Punishment
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 26
+                                    [1] => Castigo oscuro
+                                )
+
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 30
+                                    [1] => Guardian
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 30
+                                    [1] => Guardián
+                                )
+
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 32
+                                    [1] => Shadow Tempest
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 32
+                                    [1] => Tempestad oscura
+                                )
+
+                        )
+
+                )
+
+            [11] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 35
+                                    [1] => Cyclone Shot
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Cyclone Blaze
+                                    [1] => Fire FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 35
+                                    [1] => Disparo de ciclón
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Ciclón ardiente
+                                    [1] => CdF de fuego
+                                )
+
+                        )
+
+                )
+
+            [12] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 40
+                                    [1] => Miracle Hammer
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Rock Mountain - Earth FoF
+                                    [1] => 
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 40
+                                    [1] => Martillo milagroso
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Roca montañosa
+                                    [1] => CdF de tierra
+                                )
+
+                        )
+
+                )
+
+            [13] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 48
+                                    [1] => Soaring Blast
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Brutal Torrent
+                                    [1] => Water FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 48
+                                    [1] => Ascenso explosivo
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Torrente brutal
+                                    [1] => CdF de agua
+                                )
+
+                        )
+
+                )
+
+            [14] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 52
+                                    [1] => Bloody Howling
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Maelstrom
+                                    [1] => Water FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 52
+                                    [1] => Aullido maldito
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Vorágine
+                                    [1] => CdF de agua
+                                )
+
+                        )
+
+                )
+
+            [15] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 56
+                                    [1] => Lucky
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Happy Light
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 56
+                                    [1] => Suerte
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Luz feliz
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [16] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 56
+                                    [1] => Surge Breaker
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Gungnir A Go Go
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 56
+                                    [1] => Rompeolas
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Gungnir
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [17] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Mystic
+                                    [1] => Final Fury
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Arte místico
+                                    [1] => Furia final
+                                )
+
+                        )
+
+                )
+
+            [18] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Mystic
+                                    [1] => Dying Moon
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 2nd playthrough
+                                    [1] => 
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Arte místico
+                                    [1] => Luna moribunda
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 2ª partida
+                                    [1] => 
+                                )
+
+                        )
+
+                )
+
+            [19] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Mystic
+                                    [1] => Fever Time
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 2nd playthrough
+                                    [1] => 
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Arte místico
+                                    [1] => Noche de fiesta
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 2ª partida
+                                    [1] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [natalia] => Array
+        (
+            [0] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 1
+                                    [1] => Piercing Line
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Voltaic Line
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 1
+                                    [1] => Línea perforadora
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Línea voltaica
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 1
+                                    [1] => Heal
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Healing Wind
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 1
+                                    [1] => Curar
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Viento curativo
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 11
+                                    [1] => Storm Edge
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Blast Edge
+                                    [1] => Fire FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 11
+                                    [1] => Filo tempestuoso
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Filo explosivo
+                                    [1] => CdF de fuego
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 16
+                                    [1] => Barrier
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Aqua Protection
+                                    [1] => Water FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 16
+                                    [1] => Barrera
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Protección acuática
+                                    [1] => CdF de agua
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 19
+                                    [1] => Recover
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Purify
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 19
+                                    [1] => Recuperar
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Purificar
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 23
+                                    [1] => Aerial Laser
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Astral Laser
+                                    [1] => Wind FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 23
+                                    [1] => Láser aéreo
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Láser astral
+                                    [1] => CdF de viento
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 28
+                                    [1] => Sharpness
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Blaze Emitter
+                                    [1] => Fire FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 28
+                                    [1] => Audacia
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Lanzallamas
+                                    [1] => CdF de fuego
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 30
+                                    [1] => Resist
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Anti-Magic
+                                    [1] => Earth FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 30
+                                    [1] => Resistir
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Antimagia
+                                    [1] => CdF de tierra
+                                )
+
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 35
+                                    [1] => Star Stroke
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Quake Stroke
+                                    [1] => Earth FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 35
+                                    [1] => Temblor estelar
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Golpe sísmico
+                                    [1] => CdF de tierra
+                                )
+
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 38
+                                    [1] => Scare Shot
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Calamitous Bane
+                                    [1] => Water FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 38
+                                    [1] => Disparo aterrador
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Maldición calamitosa
+                                    [1] => CdF de agua
+                                )
+
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 42
+                                    [1] => Star Embrace
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Blue Embrace
+                                    [1] => Water FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 42
+                                    [1] => Abrazo estelar
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Abrazo azul
+                                    [1] => CdF de agua
+                                )
+
+                        )
+
+                )
+
+            [11] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 46
+                                    [1] => Cure
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Restore
+                                    [1] => Earth FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 46
+                                    [1] => Sanar
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Restaurar
+                                    [1] => CdF de tierra
+                                )
+
+                        )
+
+                )
+
+            [12] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 50
+                                    [1] => Cavalry
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Phalanx
+                                    [1] => Fire FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 50
+                                    [1] => Calvario
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Falange
+                                    [1] => CdF de fuego
+                                )
+
+                        )
+
+                )
+
+            [13] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Lv. 54
+                                    [1] => Revive
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Angel's Breath
+                                    [1] => Earth FoF
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Nv. 54
+                                    [1] => Resurrección
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => Aliento de ángel
+                                    [1] => CdF de tierra
+                                )
+
+                        )
+
+                )
+
+            [14] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Unlock
+                                    [1] => Gallant Barrage
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => A desbloquear
+                                    [1] => Descarga galante
+                                )
+
+                        )
+
+                )
+
+            [15] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Unlock
+                                    [1] => Healing Force
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => A desbloquear
+                                    [1] => Fuerza curativa
+                                )
+
+                        )
+
+                )
+
+            [16] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Mystic
+                                    [1] => Astral Rain
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Arte místico
+                                    [1] => Lluvia astral
+                                )
+
+                        )
+
+                )
+
+            [17] => Array
+                (
+                    [en] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Mystic
+                                    [1] => Noble Roar
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 2nd playthrough
+                                    [1] => 
+                                )
+
+                        )
+
+                    [es] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [0] => Arte místico
+                                    [1] => Rugido noble
+                                )
+
+                            [1] => Array
+                                (
+                                    [0] => 2ª partida
+                                    [1] => 
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
