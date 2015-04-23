@@ -28,6 +28,8 @@ class Spider {
 		include __DIR__ . '/index2.php';
 		$content = ob_get_clean();
 		$content = $this->replaceUrls($content);
+		$content = str_replace('charset=iso-8859-1', 'charset=utf-8', $content);
+		$content = mb_convert_encoding($content, 'utf-8', 'iso-8859-1');
 		file_put_contents($htmlname, $content);
 	}
 
