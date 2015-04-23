@@ -1,5 +1,7 @@
 <?php
 
+ini_set ('default_charset', 'iso-8859-1');
+
 class Spider {
 	private $queue = [];
 	private $handled = [];

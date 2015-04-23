@@ -60,10 +60,10 @@
 			<div class="lright"><a href="?s=infog" title=""><img src="i/header-lright.jpg" alt="Sobre el juego" /></a></div>
 		</div>
 		<div id="selectorseccion">
-			<select onchange="document.location='?s='+this.value;" style="background:#1e5456;color:#c9cfce;border:1px solid #113839;font-family:'Lucida Grande', 'Lucida', 'Lucida Sans', arial, sans-serif;">
+			<select onchange="document.location=this.value;" style="background:#1e5456;color:#c9cfce;border:1px solid #113839;font-family:'Lucida Grande', 'Lucida', 'Lucida Sans', arial, sans-serif;">
 			<?php
 				foreach ($sections as $csn => $cs) {
-					echo '<option value="' . htmlspecialchars($csn) . '"';
+					echo '<option value="?s=' . htmlspecialchars($csn) . '"';
 					if ($csn == $section_n) echo ' selected';
 					echo '>';
 					echo str_replace("\n", ' ', htmlspecialchars($cs[2]));

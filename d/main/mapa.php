@@ -268,13 +268,11 @@ function showLabelsChange(v) {
 
 function setPoint(type, x, y, name1, name2) {
 	var point_o = document.createElement('div');
-	with (point_o.style) {
-		left = x + 'px';
-		top  = y + 'px';
-		position = 'absolute';
-		//background = 'white';
-		font = "12px Arial";
-	}
+	point_o.style.left = x + 'px';
+	point_o.style.top  = y + 'px';
+	point_o.style.position = 'absolute';
+	//point_o.style.background = 'white';
+	point_o.style.font = "12px Arial";
 	point_o.className = 'far';
 	switch (type) {
 		default:

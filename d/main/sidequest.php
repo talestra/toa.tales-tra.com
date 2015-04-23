@@ -461,10 +461,13 @@ var label_list = [
 var label_list_list = [];
 
 function processLabel(div) {
+	//console.log('processLabel!');
 	var cc = div.childNodes;
 	var h2, label, labelhas = {}, counts = 0;
 	for (var n = 0; n < cc.length; n++) { var c = cc[n];
-		switch (c.localName) {
+		//console.log(c.localName);
+		if (!c || !c.localName) continue;
+		switch (c.localName.toUpperCase()) {
 			case 'H2': case 'h2':
 				h2 = c.innerHTML;
 				counts++;
@@ -499,7 +502,7 @@ function updateArticles() {
 function processLabels() {
 	var sq = $('sidequests').childNodes;
 	for (var n = 0; n < sq.length; n++) {
-		if (sq[n].localName == 'DIV') processLabel(sq[n]);
+		if (sq[n].localName && sq[n].localName.toUpperCase() == 'DIV') processLabel(sq[n]);
 	}
 	var labelsss = [];
 	for (var l in labelshas) labelsss.push(l);
