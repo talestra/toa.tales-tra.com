@@ -2,9 +2,9 @@
 		<div class="box1">
 			<h2>Descargar</h2>
 			<div class="box1inner">
-				<h3><a href="http://toa.tales-tra.com/manual/manual-toaspa-pantalla.pdf" title="Manual de instrucciones Tales of the Abyss">Manual</a></h3>
+				<h3><a href="https://github.com/talestra/toa.tales-tra.com/releases/download/v1.0/manual-toaspa-pantalla.pdf" title="Manual de instrucciones Tales of the Abyss">Manual</a></h3>
 				<p>17,8MB &bull; PDF</p>
-				<h3><a href="http://toa.tales-tra.com/manual/manual-toaspa-papel.pdf" title="Manual de instrucciones Tales of the Abyss">Manual para imprimir</a></h3>
+				<h3><a href="https://github.com/talestra/toa.tales-tra.com/releases/download/v1.0/manual-toaspa-papel.pdf" title="Manual de instrucciones Tales of the Abyss">Manual para imprimir</a></h3>
 				<p>12,5MB &bull; PDF</p>
 				<h3>Carátula y galleta</h3>
 				<p>¡Desastre! ¡Aún no están listas!</p>

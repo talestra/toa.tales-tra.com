@@ -106,7 +106,8 @@ setInterval(updateDate, 200);
 <p>Al entrar en una zona nueva del juego, en Tales of the Abyss aparece una pequeña animación sobreimpresionada con el nombre del lugar. Esas animaciones aparecen poco pero son muy llamativas, y a pesar de que han sido una de las ediciones gráficas más tocapelotas, al final conseguimos traducirlas.</p>
 <p>Para poder verlas y hacer modificaciones sin tener que hacer pruebas con el propio juego (es decir, parchear de nuevo el juego, probarlo en el emulador, etc.), creamos un simulador en Flash. Inicialmente era de lectura y escritura, y se podían modificar las animaciones en el propio editor, pero ahora mismo también se pueden modificar, aunque los cambios no se guardan.</p>
 <p>Para aprovechar esto, hicimos un script que generaba las imágenes y los recortes, y los timeaba basándose en las animaciones originales. Fue mucho curro, pero valió la pena.</p>
-<p>Si quieres toquetear el simulador, está aquí: <span class="tales"><a href="http://toa.tales-tra.com/tvt/simulator.php" title="Simulador de animaciones de zona en Tales of the Abyss">simulador de animaciones de zona</a>.</p>
+<p>Si quieres toquetear el simulador, está aquí: <span class="tales"><a target="_blank" href="tvt/index.html" title="Simulador de animaciones de zona en Tales of the Abyss">simulador de animaciones de zona</a>.</p>
+<iframe width="658" height="698" src="tvt/index.html" style="border:0;background:transparent;"></iframe>
 
 <a name="sec4"></a>
 <h2>Lenguaje fónico</h2>
