@@ -22,7 +22,7 @@
 	
 	//echo '<pre>'; print_r($seff); echo '</pre>'; exit;
 	
-	if (empty($_GET['p'])) { header('Location: ./?s=personajes&p=luke'); exit; }
+	//if (empty($_GET['p'])) { header('Location: ./?s=personajes&p=luke'); exit; }
 	
 	$chars = array('luke', 'tear', 'jade', 'anise', 'guy', 'natalia', 'asch');
 	$chars_surname = array('Fon Fabre', 'Grants', 'Curtiss', 'Tatlin', 'Cecil', 'Luzu Kimlasca Lanvaldear', 'Fon Fabre');
@@ -82,8 +82,11 @@ function swapIView() { swapById('iview'); }
 		<ul>
 <?php		
 	foreach ($chars as $name) {
-		if ($name == 'asch') continue;
-		echo '<li><a href="?s=personajes&p=' . urlencode($name) . '">' . ucfirst($name) . '</a></li>';
+		if ($name == 'asch') {
+			echo '<li><a href="?s=personajes&p=' . urlencode($name) . '" style="color:white;">' . ucfirst($name) . '</a></li>';
+		} else {
+			echo '<li><a href="?s=personajes&p=' . urlencode($name) . '">' . ucfirst($name) . '</a></li>';
+		}
 	}
 ?>
 		</ul>
@@ -132,7 +135,9 @@ function swapIView() { swapById('iview'); }
 		
 		echo '<h2>Listado de habilidades</h2>';
 		
-		function fapply(&$v, $f) { $v = $f($v); }
+		if (!function_exists('fapply')) {
+			function fapply(&$v, $f) { $v = $f($v); }
+		}
 		
 		$skills = array();
 		$sk = 0;

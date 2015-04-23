@@ -1,4 +1,5 @@
 <?php
+	/*
 	$_SERVER['start_time'] = microtime(true);
 	error_reporting(E_ALL);
 	@session_start();
@@ -16,6 +17,7 @@
 		header('Location: ?s=main');
 		exit;
 	}
+	*/
 
 	$sections = array();
 	$sections['main']          = array('main', 'main',          "Principal", 0, 'trad');
@@ -38,7 +40,7 @@
 
 	@list($head, $main, $head_title, $sec_type, $sec_cat) = $section;
 	
-	ob_start();
+	//ob_start();
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html><head lang="es">
@@ -77,15 +79,6 @@
 		<div id="contents-mid">
 			<?php include(dirname(__FILE__) . '/d/main/' . basename($main) . '.php'); ?>
 			<div class="footer">Los contenidos de esta página se distribuyen bajo licencia Creative Commons <a href="http://creativecommons.org/licenses/by-nc-sa/2.5/deed.es">Attribution-NonCommercial-ShareAlike 2.5</a>. <br />Todos los contenidos no creados por <span class="tales">Tales Translations</span> son propiedad de sus respectivos autores.</div>
-			<?php
-				if (true) {
-					echo '<div style="color:#edebdb;">';
-				} else {
-					echo '<div>';
-				}
-				echo 'g:' . (microtime(true) - $_SERVER['start_time']);
-				echo '</div>';
-			?>
 		</div>
 		<div id="contents-bot"></div>
 	</div>
